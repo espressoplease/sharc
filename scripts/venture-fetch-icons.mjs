@@ -3,7 +3,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname, '..');
-const dataset = path.join(root, 'static', 'venture-deals.seed.json');
+const dataset = path.resolve(process.argv[2] || path.join(root, 'static', 'venture-deals.seed.json'));
 const iconDirectory = path.join(root, 'static');
 const records = JSON.parse(await readFile(dataset, 'utf8'));
 await mkdir(iconDirectory, { recursive: true });

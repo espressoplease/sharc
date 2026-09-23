@@ -16,6 +16,10 @@ python3 scripts/venture_service.py import /path/to/new-deals.json
 
 The importer validates required fields and de-duplicates by stable round id and article URL. Check the resulting database with `python3 scripts/venture_service.py check`.
 
+### Discovery queue
+
+`python3 scripts/venture_discover.py --output /tmp/venture-candidates.json` polls PR Newswire and TechCrunch RSS feeds, removes URLs already in the database, and writes only leads that include a funding-stage phrase. It never writes to SQLite. A researcher verifies the announcement date, stage, round amount, company domain and investors, then supplies a clean batch to the importer. This keeps broad, cheap discovery separate from factual publication.
+
 ## Deploying
 
 Run the service with `python3 scripts/venture_service.py serve`, then the app with `PORT=8082 ./sharc venture-news.arc`. The Sharc route proxies the loopback service and falls back to the legacy JSON file while it is unavailable. On the production host, retain `arc/venture/venture.db` outside the deployment checkout or use `VENTURE_DATA_DIR`. Deploying source code with `git pull` never overwrites that runtime directory. Back it up with the rest of the Sharc `arc/` data.

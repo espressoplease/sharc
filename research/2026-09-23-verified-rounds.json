@@ -1,0 +1,150 @@
+[
+  {
+    "id": "ekai-preseed-2026-09-23",
+    "company": "Ekai",
+    "domain": "ekai.ai",
+    "date": "2026-09-23",
+    "stage": "Pre-seed",
+    "amountUsd": 1700000,
+    "sector": "Enterprise AI / data infrastructure",
+    "country": "United States",
+    "investors": [
+      "Misneach",
+      "C10 Labs"
+    ],
+    "leadInvestors": [
+      "Misneach"
+    ],
+    "title": "Ekai raises $1.7M pre-seed round",
+    "url": "https://www.globenewswire.com/news-release/2026/09/23/3367442/0/en/ekai-raises-1-7m-pre-seed-round-led-by-misneach-to-fix-enterprise-ai-s-meaning-gap-and-context-rot.html",
+    "source": "Ekai via GlobeNewswire",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company announcement states $1.7M pre-seed, led by Misneach with C10 Labs participating.",
+    "iconPath": "venture-icon-ekai-preseed-2026-09-23.jpg"
+  },
+  {
+    "id": "basecamp-research-seriesc-2026-09-23",
+    "company": "Basecamp Research",
+    "domain": "basecamp-research.com",
+    "date": "2026-09-23",
+    "stage": "Series C",
+    "amountUsd": 140000000,
+    "sector": "Biotech / AI drug discovery",
+    "country": "United Kingdom / United States",
+    "investors": [
+      "S32",
+      "Anthropic Anthology Fund",
+      "Catalio Capital Management",
+      "NATO Innovation Fund",
+      "NVIDIA",
+      "Redalpine",
+      "Singular",
+      "True Ventures"
+    ],
+    "leadInvestors": [
+      "S32"
+    ],
+    "title": "Basecamp Research raises $140M Series C",
+    "url": "https://www.prnewswire.com/news-releases/basecamp-research-raises-140m-to-advance-ai-designed-therapeutics-302887617.html",
+    "source": "Basecamp Research via PR Newswire",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company release identifies a $140M Series C led by S32 and names the participating funds.",
+    "iconPath": "venture-icon-basecamp-research-seriesc-2026-09-23.jpg"
+  },
+  {
+    "id": "ema-seriesb-2026-09-23",
+    "company": "Ema",
+    "domain": "ema.ai",
+    "date": "2026-09-23",
+    "stage": "Series B",
+    "amountUsd": 77000000,
+    "sector": "Enterprise AI",
+    "country": "United States",
+    "investors": [
+      "Creaegis",
+      "Accel",
+      "S32",
+      "Prosus"
+    ],
+    "leadInvestors": [
+      "Creaegis"
+    ],
+    "title": "Ema raises $77M Series B",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ema-raises-77m-series-b-130000096.html",
+    "source": "Ema via GlobeNewswire",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Syndicated company release identifies a $77M Series B led by Creaegis, with Accel, S32 and Prosus increasing existing investments.",
+    "articles": [
+      {
+        "url": "https://finance.yahoo.com/technology/ai/articles/ema-raises-77m-series-b-130000096.html",
+        "publisher": "Ema via GlobeNewswire",
+        "title": "Ema raises $77M Series B to put AI employees to work across the enterprise",
+        "publishedOn": "2026-09-23"
+      },
+      {
+        "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+        "publisher": "TechCrunch",
+        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+        "publishedOn": "2026-09-23"
+      }
+    ],
+    "iconPath": "venture-icon-ema-seriesb-2026-09-23.jpg"
+  },
+  {
+    "id": "noxtua-seriesc-2026-09-23",
+    "company": "Noxtua",
+    "domain": "noxtua.com",
+    "date": "2026-09-23",
+    "stage": "Series C",
+    "amountUsd": 118000000,
+    "originalAmount": 100000000,
+    "originalCurrency": "EUR",
+    "amountIsApproximate": true,
+    "sector": "Legal AI",
+    "country": "Germany",
+    "investors": [
+      "C.H.BECK",
+      "MANZ"
+    ],
+    "leadInvestors": [
+      "C.H.BECK"
+    ],
+    "title": "C.H.BECK invests more than €100M in Noxtua Series C",
+    "url": "https://www.noxtua.com/news/press-releases/series-c",
+    "source": "Noxtua",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company announcement describes a Series C of more than €100M, with C.H.BECK becoming majority shareholder and MANZ joining. USD figure is an approximate display conversion.",
+    "iconPath": "venture-icon-noxtua-seriesc-2026-09-23.jpg"
+  },
+  {
+    "id": "heidi-seriesc-2026-09-22",
+    "company": "Heidi",
+    "domain": "heidihealth.com",
+    "date": "2026-09-22",
+    "stage": "Series C",
+    "amountUsd": 100000000,
+    "roundVariant": "equity portion; separate $240M growth investment",
+    "sector": "Healthtech / clinical AI",
+    "country": "Australia",
+    "investors": [
+      "Blackbird",
+      "Phoenix Court",
+      "Point72 Private Investments",
+      "Headline"
+    ],
+    "leadInvestors": [
+      "Blackbird"
+    ],
+    "title": "Heidi closes $100M Series C",
+    "url": "https://www.heidihealth.com/en-sg/blog/heidi-secures-us340m-to-scale-agents-across-health-systems-globally",
+    "source": "Heidi",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company announcement separates the $100M Series C led by Blackbird from a $240M General Catalyst Customer Value Fund growth investment. The chart records only the equity round.",
+    "iconPath": "venture-icon-heidi-seriesc-2026-09-22.jpg"
+  }
+]
