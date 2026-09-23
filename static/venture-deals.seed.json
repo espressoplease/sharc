@@ -1,0 +1,3520 @@
+[
+  {
+    "id": "sprive-seriesa-2026-09-21",
+    "company": "Sprive",
+    "domain": "sprive.com",
+    "date": "2026-09-21",
+    "stage": "Series A",
+    "amountUsd": 10000000,
+    "sector": "Fintech",
+    "investors": [
+      "Ascension",
+      "Channel 4 Ventures",
+      "Velocity EIS Technology Fund",
+      "Active Partners",
+      "Wealth Club",
+      "Rank Ventures"
+    ],
+    "leadInvestors": [],
+    "title": "Sprive raises $10m Series A to grow mortgage app",
+    "url": "https://fintech.global/2026/09/21/sprive-raises-10m-series-a-to-grow-mortgage-app/",
+    "source": "FinTech Global",
+    "summary": "Consumer app directs shopping cashback into mortgage overpayments.",
+    "researchedAt": "2026-09-22",
+    "dateType": "reported",
+    "sourceType": "independent_reporting",
+    "status": "reported_closed",
+    "evidence": "Opened September 21 report states closed $10M (£7.7M) Series A and all six backers, but no lead. Secondary report only. Some other September stories recycle the distinct 2025 £5.5M financing.",
+    "originalAmount": 7700000,
+    "originalCurrency": "GBP",
+    "country": "United Kingdom",
+    "amountOriginal": 7700000,
+    "currency": "GBP"
+  },
+  {
+    "id": "rainmaker-seriesb-2026-09-21",
+    "company": "Rainmaker",
+    "domain": "rainmaker.com",
+    "date": "2026-09-21",
+    "stage": "Series B",
+    "amountUsd": 100000000,
+    "sector": "Climate tech",
+    "investors": [
+      "NOA VC",
+      "Upfront Ventures",
+      "DCVC",
+      "Lowercarbon Capital",
+      "Dream Ventures"
+    ],
+    "leadInvestors": [],
+    "title": "Announcing Rainmaker's $100M Series B",
+    "url": "https://www.rainmaker.com/blog/announcing-rainmaker-s-usd100m-series-b",
+    "source": "Rainmaker",
+    "summary": "Cloud-seeding company funds atmospheric research and freshwater production technology.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company September 21 post confirms $100M Series B and five named participants; no lead identified."
+  },
+  {
+    "id": "fluxnium-seed-2026-09-21",
+    "company": "Fluxnium",
+    "domain": "fluxnium.com",
+    "date": "2026-09-21",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 7000000,
+    "sector": "Energy / nuclear",
+    "investors": [
+      "Congruent Ventures",
+      "Constellation Technology Ventures",
+      "Active Impact Investments"
+    ],
+    "leadInvestors": [
+      "Congruent Ventures"
+    ],
+    "title": "Fluxnium announces $7M seed financing",
+    "url": "https://www.prnewswire.com/news-releases/fluxnium-secures-7-million-seed-round-to-build-a-new-domestic-supply-of-uranium-302883764.html",
+    "source": "Fluxnium via PR Newswire",
+    "summary": "Uranium recovery from seawater; funding supports pilot testing and scale-up.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Los Angeles",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/fluxnium-secures-7-million-seed-round-to-build-a-new-domestic-supply-of-uranium-302883764.html",
+        "source": "Fluxnium via PR Newswire",
+        "verifiedBy": "opened_source",
+        "evidence": "Company release dated September 21 explicitly announces $7M seed and the three named funds. Earlier September 16 press coverage exists; date here is formal company announcement."
+      }
+    ]
+  },
+  {
+    "id": "corridor-seed-2026-09-21",
+    "company": "Corridor",
+    "domain": "corridoradvisors.com",
+    "date": "2026-09-21",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 25000000,
+    "sector": "Insurtech / employee benefits",
+    "investors": [
+      "Bain Capital Ventures",
+      "BoxGroup"
+    ],
+    "leadInvestors": [
+      "Bain Capital Ventures"
+    ],
+    "title": "Corridor raises $25M seed for small-business health benefits",
+    "url": "https://baincapitalventures.com/insight/protecting-the-american-dream-our-investment-in-corridor/",
+    "source": "Bain Capital Ventures",
+    "summary": "Benefits brokerage pairs licensed advisors with AI agents to quote plans and manage enrollment for small businesses.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": null,
+    "sources": [
+      {
+        "url": "https://baincapitalventures.com/insight/protecting-the-american-dream-our-investment-in-corridor/",
+        "source": "Bain Capital Ventures",
+        "verifiedBy": "opened_source",
+        "evidence": "September 22 investor post confirms Bain leads $25M seed for Corridor; investor post follows prior-day announcement."
+      },
+      {
+        "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+        "source": "TechCrunch",
+        "verifiedBy": "opened_source",
+        "evidence": "September 21 announcement; BoxGroup participated."
+      }
+    ]
+  },
+  {
+    "id": "amberelectric-seriese-2026-09-21",
+    "company": "Amber Electric",
+    "domain": "amber.com.au",
+    "date": "2026-09-21",
+    "stage": "Series E",
+    "roundVariant": null,
+    "amountUsd": null,
+    "originalAmount": 49000000,
+    "originalCurrency": "EUR",
+    "sector": "Energy software",
+    "investors": [
+      "Morgan Stanley 1GT",
+      "ETF Partners",
+      "Innovation Victoria",
+      "E.ON"
+    ],
+    "leadInvestors": [
+      "Morgan Stanley 1GT"
+    ],
+    "title": "Morgan Stanley 1GT leads EUR49 million Series E for Amber Electric",
+    "url": "https://www.morganstanley.com/im/en-us/individual-investor/insights/press-release/msim-1gt-leads-49-million-series-e-funding-for-amber-electric.html",
+    "source": "Morgan Stanley",
+    "summary": "Funding expands home battery and EV automation. Investor reports EUR49 million; company reports $78.5 million in Australian context, which is not treated as USD.",
+    "location": "Melbourne, Australia",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "sources": [
+      {
+        "url": "https://www.morganstanley.com/im/en-us/individual-investor/insights/press-release/msim-1gt-leads-49-million-series-e-funding-for-amber-electric.html",
+        "source": "Morgan Stanley",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      },
+      {
+        "url": "https://www.amber.com.au/blog/amber-raises-78-5m-to-supercharge-its-international-leadership-in-battery-automation",
+        "source": "Amber Electric",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "investors",
+          "stage",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Funding expands home battery and EV automation. Investor reports EUR49 million; company reports $78.5 million in Australian context, which is not treated as USD.",
+    "amountOriginal": 49000000,
+    "currency": "EUR"
+  },
+  {
+    "id": "dtcpay-seriesa-2026-09-18-extensionfinalclose",
+    "company": "dtcpay",
+    "domain": "dtcpay.com",
+    "date": "2026-09-18",
+    "stage": "Series A",
+    "amountUsd": null,
+    "sector": "Fintech",
+    "investors": [
+      "SBI Ventures Asset",
+      "SBI-NTU-Kyobo Digital Innovation Fund",
+      "Kwee Liong Tek"
+    ],
+    "leadInvestors": [],
+    "title": "dtcpay Welcomes SBI Group, Extending Series A to US$25M",
+    "url": "https://www.prnewswire.com/apac/news-releases/dtcpay-welcomes-sbi-group-as-strategic-investor-extending-series-a-to-us25m-302881922.html",
+    "source": "dtcpay via PR Newswire",
+    "summary": "Stablecoin payment company expands merchant and consumer infrastructure.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 18 company release reports total Series A $25M; incremental capital is undisclosed. Vertex explicitly led initial tranche, stored only in roundLeadInvestors. SBI entities are new participants and Kwee expressly increases commitment. Genedant is named for the whole round without tranche timing, stored only in roundInvestors. Earlier source timing differs for initial announcement, without affecting September date.",
+    "roundVariant": "extension / final close",
+    "roundTotalUsd": 25000000,
+    "country": "Singapore",
+    "location": "Singapore",
+    "roundInvestors": [
+      "Vertex Ventures Southeast Asia & India",
+      "SBI Ventures Asset",
+      "SBI-NTU-Kyobo Digital Innovation Fund",
+      "Genedant Capital",
+      "Kwee Liong Tek"
+    ],
+    "roundLeadInvestors": [
+      "Vertex Ventures Southeast Asia & India"
+    ],
+    "investorRoleScope": "investors contains explicitly new or increased commitments in final-close announcement; roundInvestors includes entire Series A; Genedant tranche unspecified; Vertex led initial tranche only"
+  },
+  {
+    "id": "mantic-seed-2026-09-18",
+    "company": "Mantic",
+    "domain": "mantic.com",
+    "date": "2026-09-18",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 25000000,
+    "sector": "AI forecasting",
+    "investors": [
+      "Radical Ventures",
+      "M12",
+      "Thinking Machines Lab",
+      "Balderton Capital"
+    ],
+    "leadInvestors": [
+      "Radical Ventures"
+    ],
+    "title": "Mantic announces $25M seed financing",
+    "url": "https://www.marketscreener.com/news/ai-startup-mantic-raises-25-million-for-superhuman-forecasting-ce785adadb8af727",
+    "source": "Reuters via MarketScreener",
+    "summary": "AI forecasting models for uncertain real-world events.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "news_reporting",
+    "status": "announced",
+    "country": "United Kingdom",
+    "location": "London",
+    "sources": [
+      {
+        "url": "https://www.marketscreener.com/news/ai-startup-mantic-raises-25-million-for-superhuman-forecasting-ce785adadb8af727",
+        "source": "Reuters via MarketScreener",
+        "verifiedBy": "opened_source",
+        "evidence": "September 18 Reuters report confirms $25M seed, Radical lead and three named participants. Unknown valuation. Company website checked for identity."
+      },
+      {
+        "url": "https://www.mantic.com/",
+        "verifiedBy": "opened_source"
+      }
+    ]
+  },
+  {
+    "id": "cora-seed-2026-09-18",
+    "company": "CORA",
+    "domain": "coraabl.com",
+    "date": "2026-09-18",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": null,
+    "sector": "Fintech",
+    "investors": [],
+    "leadInvestors": [],
+    "title": "CORA announces seed financing",
+    "url": "https://coraabl.com/seed-round",
+    "source": "CORA",
+    "summary": "Portfolio monitoring infrastructure for banks and private credit funds.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Boston, Massachusetts",
+    "sources": [
+      {
+        "url": "https://coraabl.com/seed-round",
+        "source": "CORA",
+        "verifiedBy": "opened_source",
+        "evidence": "September 18 company announcement confirms Seed closed but discloses neither amount nor investors. No invented fund tags."
+      }
+    ]
+  },
+  {
+    "id": "arcos-seed-2026-09-18",
+    "company": "Arcos",
+    "domain": "arcos.eu",
+    "date": "2026-09-18",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": null,
+    "sector": "Security / infrastructure",
+    "investors": [
+      "High-Tech Gründerfonds",
+      "Bayern Kapital",
+      "Pact",
+      "Haufe",
+      "Robin Capital"
+    ],
+    "leadInvestors": [],
+    "title": "Arcos announces seed financing",
+    "url": "https://www.htgf.de/en/arcos-seed/",
+    "source": "High-Tech Gründerfonds",
+    "summary": "Integrated sensing and incident response for civil and critical infrastructure security.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "Germany",
+    "location": "Munich",
+    "amountOriginal": 5500000,
+    "sources": [
+      {
+        "url": "https://www.htgf.de/en/arcos-seed/",
+        "source": "High-Tech Gründerfonds",
+        "verifiedBy": "opened_source",
+        "evidence": "September 18 investor release explicitly states EUR5.5M seed and five named investors, without specifying lead. HTGF LPs KfW/federal ministry excluded. Read official Markdown alternate via curl."
+      }
+    ],
+    "currency": "EUR"
+  },
+  {
+    "id": "angle-c-20260918",
+    "company": "Angle Health",
+    "domain": "anglehealth.com",
+    "date": "2026-09-18",
+    "stage": "Series C",
+    "amountUsd": 200000000,
+    "sector": "Healthtech",
+    "investors": [
+      "Vitruvian Partners",
+      "Town Hall Ventures",
+      "Blumberg Capital",
+      "Portage Ventures",
+      "PruVen Capital",
+      "Y Combinator"
+    ],
+    "leadInvestors": [
+      "Vitruvian Partners"
+    ],
+    "title": "Angle Health announces financing at a $2.7B valuation to expand healthcare access",
+    "url": "https://markets.financialcontent.com/stocks/article/bizwire-2026-9-18-angle-health-raises-600-million-at-a-27-billion-valuation-to-continue-expanding-affordable-healthcare-access-for-small-businesses",
+    "source": "Angle Health via Business Wire / FinancialContent",
+    "summary": "Announced $200M Series C plus a separate $400M tender. Closing was expected later in September; chart shows only the Series C.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced_pending_close"
+  },
+  {
+    "id": "syte-seriesa-2026-09-17",
+    "company": "syte",
+    "domain": "syte.ms",
+    "date": "2026-09-17",
+    "stage": "Series A",
+    "amountUsd": null,
+    "sector": "Proptech",
+    "investors": [
+      "amberra",
+      "NRW.BANK",
+      "Schwarz Group companies",
+      "High-Tech Gründerfonds",
+      "vent.io",
+      "Vantage Value"
+    ],
+    "leadInvestors": [
+      "amberra"
+    ],
+    "title": "syte secures €9 million Series A",
+    "url": "https://www.syte.ms/news/syte-sichert-sich-9-millionen-euro-in-series-a-finanzierungsrunde",
+    "source": "syte",
+    "summary": "Land and property analysis software supports development feasibility decisions.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "German company announcement September 17 says closed €9M Series A led by amberra. Names NRW.BANK plus returning Schwarz Group companies, HTGF, vent.io and Vantage Value. Specific Schwarz investment entity not identified.",
+    "originalAmount": 9000000,
+    "originalCurrency": "EUR",
+    "country": "Germany",
+    "location": "Münster",
+    "amountOriginal": 9000000,
+    "currency": "EUR"
+  },
+  {
+    "id": "viabot-seriesa-2026-09-17",
+    "company": "Viabot",
+    "domain": "viabot.com",
+    "date": "2026-09-17",
+    "stage": "Series A",
+    "amountUsd": 24000000,
+    "sector": "Robotics",
+    "investors": [
+      "Walden International",
+      "CDIB Capital Group",
+      "Stalwart Ventures",
+      "Baseline Ventures",
+      "Era Ventures",
+      "Morado Ventures",
+      "SOSV"
+    ],
+    "leadInvestors": [
+      "Walden International"
+    ],
+    "title": "Viabot Announces $24M Series A to Scale Precision Outdoor Commercial Property Care",
+    "url": "https://www.prnewswire.com/news-releases/viabot-announces-24m-series-a-to-scale-precision-outdoor-commercial-property-care-302882113.html",
+    "source": "Viabot via PR Newswire",
+    "summary": "Autonomous robots clean and monitor large commercial properties.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 17 Santa Clara dateline states $24M Series A and all seven investors; $43M is cumulative."
+  },
+  {
+    "id": "trebletechnologies-seriesa-2026-09-17-seriesa-2",
+    "company": "Treble Technologies",
+    "domain": "treble.tech",
+    "date": "2026-09-17",
+    "stage": "Series A",
+    "amountUsd": 18000000,
+    "sector": "Developer tools",
+    "investors": [
+      "Paladin Capital Group",
+      "KOMPAS VC",
+      "Frumtak Ventures",
+      "European Innovation Council Fund"
+    ],
+    "leadInvestors": [
+      "Paladin Capital Group"
+    ],
+    "title": "Treble Raises $18M to Expand Audio and Voice Development Platform for Physical AI",
+    "url": "https://www.treble.tech/insights/18m-fundraising",
+    "source": "Treble Technologies",
+    "summary": "Acoustic simulation generates synthetic data for audio and physical AI development.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 17 Iceland company announcement explicitly says $18M (approximately €15M) Series A-2. €36M is cumulative. Other publication lists Omega; primary announcement only supports these four names.",
+    "roundVariant": "Series A-2",
+    "originalAmount": 15000000,
+    "originalCurrency": "EUR",
+    "originalAmountQualifier": "approximately",
+    "country": "Iceland",
+    "location": "Reykjavík",
+    "amountOriginal": 15000000,
+    "currency": "EUR"
+  },
+  {
+    "id": "tigerbytecyber-seed-2026-09-17",
+    "company": "TigerByte Cyber",
+    "domain": "tigerbytecyber.us",
+    "date": "2026-09-17",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 3000000,
+    "sector": "Cybersecurity / defense",
+    "investors": [
+      "Hale Capital Partners",
+      "Tenon VC"
+    ],
+    "leadInvestors": [
+      "Hale Capital Partners"
+    ],
+    "title": "TigerByte Cyber announces $3M seed financing",
+    "url": "https://www.vcaonline.com/news/2026091713/tigerbyte-cyber-emerges-from-stealth-with-3m-seed-funding-and-over-7m-in-government-contracts-from-darpa-us-space-force-and-other-agencies-to-protect-satellites-and-aircraft-from-cyberattacks/",
+    "source": "TigerByte Cyber announcement via VCA Online",
+    "summary": "Hardware-based security for satellites, aircraft and edge systems.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Washington",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026091713/tigerbyte-cyber-emerges-from-stealth-with-3m-seed-funding-and-over-7m-in-government-contracts-from-darpa-us-space-force-and-other-agencies-to-protect-satellites-and-aircraft-from-cyberattacks/",
+        "source": "TigerByte Cyber announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 17 dateline states $3M seed led by Hale, with Tenon. Separate $7M+ government contracts excluded from round amount. Company domain checked."
+      },
+      {
+        "url": "https://tigerbytecyber.us/",
+        "verifiedBy": "opened_source"
+      }
+    ]
+  },
+  {
+    "id": "ravel-seed-2026-09-17",
+    "company": "Ravel",
+    "domain": "ravelfuture.com",
+    "date": "2026-09-17",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 8200000,
+    "sector": "Climate / recycling",
+    "investors": [
+      "One Small Planet",
+      "AP Ventures",
+      "Overlay Capital",
+      "Lichen Ventures",
+      "At One Ventures",
+      "Collateral Good",
+      "Betterway Ventures"
+    ],
+    "leadInvestors": [
+      "One Small Planet"
+    ],
+    "title": "Ravel announces $8.2M seed financing",
+    "url": "https://www.prnewswire.com/news-releases/ravel-raises-8-2m-oversubscribed-seed-round-to-scale-purification-recycling-for-blended-textiles-302881246.html",
+    "source": "Ravel via PR Newswire",
+    "summary": "Recovers polyester from blended textile waste for circular apparel manufacturing.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Seattle",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/ravel-raises-8-2m-oversubscribed-seed-round-to-scale-purification-recycling-for-blended-textiles-302881246.html",
+        "source": "Ravel via PR Newswire",
+        "verifiedBy": "opened_source",
+        "evidence": "September 17 release states $8.2M Seed; One Small Planet leads, AP significant participant. Existing investors explicitly follow on; At One was prior pre-seed lead only."
+      }
+    ]
+  },
+  {
+    "id": "raindrop-a-20260917",
+    "company": "Raindrop",
+    "domain": "raindrop.ai",
+    "date": "2026-09-17",
+    "stage": "Series A",
+    "amountUsd": null,
+    "sector": "Developer tools",
+    "investors": [
+      "CRV",
+      "Lightspeed Venture Partners",
+      "Y Combinator"
+    ],
+    "leadInvestors": [
+      "CRV"
+    ],
+    "title": "Raindrop Announces Series A and $50M in Total Funding Led by CRV to Protect the World from AI Agent Failures",
+    "url": "https://markets.financialcontent.com/dowtheoryletters/article/bizwire-2026-9-17-raindrop-announces-series-a-and-50m-in-total-funding-led-by-crv-to-protect-the-world-from-ai-agent-failures",
+    "source": "Raindrop via Business Wire / FinancialContent",
+    "summary": "Agent reliability company announces a Series A; $50M is cumulative funding, so round size is left undisclosed.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "mazamaenergy-seriesb-2026-09-17",
+    "company": "Mazama Energy",
+    "domain": "mazamaenergy.com",
+    "date": "2026-09-17",
+    "stage": "Series B",
+    "amountUsd": null,
+    "sector": "Geothermal energy",
+    "investors": [
+      "Centaurus Capital",
+      "Doerr Capital",
+      "ConocoPhillips",
+      "Shell Ventures",
+      "Khosla Ventures",
+      "Gates Frontier",
+      "SiteGround Capital",
+      "H. Barton Asset Management",
+      "Jeffrey and Marieke Rothschild Foundation"
+    ],
+    "leadInvestors": [
+      "Centaurus Capital",
+      "Doerr Capital"
+    ],
+    "title": "Mazama Energy Raises $135 Million in Capital Including Series B",
+    "url": "https://www.globenewswire.com/news-release/2026/09/17/3364060/0/en/mazama-energy-raises-135-million-to-scale-the-world-s-hottest-engineered-geothermal-system.html",
+    "source": "Mazama Energy via GlobeNewswire",
+    "summary": "Superhot rock geothermal developer advances drilling and commercial power demonstration.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 17 company release describes $135M in new capital including Series B, without equity-only breakdown. Opened Axios Pro Rata on September 17 identifies grants within the total: https://www.axios.com/newsletters/axios-pro-rata-481aa6e7-8911-44ba-9bba-db005c9ea2f0 . Equity amount left null.",
+    "combinedCapitalUsd": 135000000,
+    "country": "United States",
+    "location": "Dallas"
+  },
+  {
+    "id": "magentic-seriesa-2026-09-17",
+    "company": "Magentic",
+    "domain": "magentic.com",
+    "date": "2026-09-17",
+    "stage": "Series A",
+    "amountUsd": 18000000,
+    "sector": "Industrial AI",
+    "investors": [
+      "Felicis",
+      "Sequoia Capital",
+      "The Westly Group"
+    ],
+    "leadInvestors": [
+      "Felicis"
+    ],
+    "title": "Magentic raises $18M to build the AI workforce for the physical world",
+    "url": "https://www.magentic.com/stories/magentic-raises-18m",
+    "source": "Magentic",
+    "summary": "AI digital workers support procurement and operations at manufacturers.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "London September 17 dateline states $18M Series A led by Felicis with existing Sequoia and Westly."
+  },
+  {
+    "id": "mind-b-20260917",
+    "company": "MIND",
+    "domain": "mind.io",
+    "date": "2026-09-17",
+    "stage": "Series B",
+    "amountUsd": 72000000,
+    "sector": "Cybersecurity",
+    "investors": [
+      "Crosspoint Capital Partners",
+      "YL Ventures",
+      "Paladin Capital Group"
+    ],
+    "leadInvestors": [
+      "Crosspoint Capital Partners"
+    ],
+    "title": "MIND Raises $72M Series B Funding to Bring Complete DLP to the AI Era",
+    "url": "https://mind.io/newsroom/mind-raises-usd72m-series-b-funding-to-bring-complete-dlp-to-the-ai-era",
+    "source": "MIND",
+    "summary": "Data loss prevention platform funds enterprise expansion and technology partnerships.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "luzernrisk-seriesb-2026-09-17",
+    "company": "Luzern Risk",
+    "domain": "luzernrisk.com",
+    "date": "2026-09-17",
+    "stage": "Series B",
+    "amountUsd": 45000000,
+    "sector": "Insurtech",
+    "investors": [
+      "Insight Partners",
+      "Trust Ventures",
+      "Caffeinated Capital"
+    ],
+    "leadInvestors": [
+      "Insight Partners"
+    ],
+    "title": "Luzern Risk Raises $45M Series B Led by Insight Partners",
+    "url": "https://www.businesswire.com/news/home/20260914327743/en/Luzern-Risk-Raises-$45M-Series-B-Led-by-Insight-Partners",
+    "source": "Luzern Risk via Business Wire",
+    "summary": "Captive insurance management platform expands automation and client services.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company newsroom dated September 17 expressly identifies amount, stage, lead and participants. Syndicated release: https://markets.financialcontent.com/dowtheoryletters/article/bizwire-2026-9-17-luzern-risk-raises-45m-series-b-led-by-insight-partners"
+  },
+  {
+    "id": "fizemedical-seriesb-2026-09-17-firstclose",
+    "company": "FIZE Medical",
+    "domain": "fizemedical.com",
+    "date": "2026-09-17",
+    "stage": "Series B",
+    "amountUsd": null,
+    "sector": "Medical devices",
+    "investors": [
+      "Asahi Kasei Medical",
+      "Rapha Capital Management"
+    ],
+    "leadInvestors": [
+      "Asahi Kasei Medical",
+      "Rapha Capital Management"
+    ],
+    "title": "FIZE Medical Announces First Close Toward $20M Series B Target",
+    "url": "https://www.prnewswire.com/news-releases/fize-medical-announces-first-close-of-20m-series-b-financing-co-led-by-asahi-kasei-medical-and-rapha-capital-302881840.html",
+    "source": "FIZE Medical via PR Newswire",
+    "summary": "Fluid monitoring medical device company advances predictive intensive care tools.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "first_close",
+    "evidence": "September 17 company release says first close making progress toward $20M target, not completed $20M raise. Closed amount undisclosed; target stored separately.",
+    "roundVariant": "first close",
+    "targetAmountUsd": 20000000
+  },
+  {
+    "id": "crusoe-seriesf-2026-09-17",
+    "company": "Crusoe",
+    "domain": "crusoe.ai",
+    "date": "2026-09-17",
+    "stage": "Series F",
+    "amountUsd": 3900000000,
+    "sector": "AI infrastructure",
+    "investors": [
+      "Atreides Management",
+      "Mubadala Capital",
+      "Valor Equity Partners",
+      "Founders Fund",
+      "GIC",
+      "NVIDIA",
+      "Qatar Investment Authority",
+      "Radical Ventures",
+      "TPG",
+      "1789 Capital",
+      "Activate Capital",
+      "Altimeter",
+      "ARK Invest",
+      "Avenir",
+      "Baillie Gifford",
+      "BAM Elevate",
+      "BDT & MSD Partners",
+      "Clal Insurance and Finance",
+      "Darsana",
+      "DPR Construction",
+      "Era Funds",
+      "Fidelity Management & Research Company",
+      "Fundrise",
+      "Galvanize",
+      "M37",
+      "OIA",
+      "Polychain Capital",
+      "Ribbit Capital",
+      "Robinhood Ventures Fund I",
+      "SemiAnalysis",
+      "Salesforce Ventures",
+      "Squarepoint Capital",
+      "StepStone Group",
+      "T. Rowe Price",
+      "Tiger Global",
+      "Upper90",
+      "Van Eck",
+      "XN",
+      "Zigg Capital"
+    ],
+    "leadInvestors": [
+      "Atreides Management",
+      "Mubadala Capital",
+      "Valor Equity Partners"
+    ],
+    "url": "https://www.globenewswire.com/de/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html",
+    "source": "Crusoe via GlobeNewswire",
+    "title": "Crusoe announces Series F financing",
+    "summary": "Initial closing of anticipated $3.9 billion round supports energy-to-cloud infrastructure. Full anticipated round amount is not the disclosed amount closed.",
+    "location": "Denver, Colorado, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "initial_close",
+    "originalAmount": 3900000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.globenewswire.com/de/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html",
+        "source": "Crusoe via GlobeNewswire",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series F, USD 3,900,000,000, dated 2026-09-17. Initial closing of anticipated $3.9 billion round supports energy-to-cloud infrastructure. Full anticipated round amount is not the disclosed amount closed.",
+    "amountOriginal": 3900000000,
+    "currency": "USD"
+  },
+  {
+    "id": "adaptive-seriesb-2026-09-17",
+    "company": "Adaptive",
+    "domain": "adaptive.build",
+    "date": "2026-09-17",
+    "stage": "Series B",
+    "amountUsd": 30000000,
+    "sector": "Construction tech",
+    "investors": [
+      "Tidemark",
+      "Emergence Capital",
+      "Andreessen Horowitz",
+      "Pathlight",
+      "Definition",
+      "3KVC"
+    ],
+    "leadInvestors": [
+      "Tidemark"
+    ],
+    "title": "Adaptive Raises $30 Million Series B Led by Tidemark",
+    "url": "https://www.prnewswire.com/news-releases/adaptive-raises-30-million-series-b-led-by-tidemark-to-bring-agentic-accounting-to-construction-302881537.html",
+    "source": "Adaptive via PR Newswire",
+    "summary": "Construction accounting agents connect field information with financial workflows.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 17 release states $30M Series B, Tidemark sole named lead. Aggregator incorrectly implies a16z co-led. $57M is cumulative."
+  },
+  {
+    "id": "veridion-seriesa-2026-09-16",
+    "company": "Veridion",
+    "domain": "veridion.com",
+    "date": "2026-09-16",
+    "stage": "Series A",
+    "amountUsd": 20000000,
+    "sector": "Business intelligence",
+    "investors": [
+      "Hoxton Ventures",
+      "Underline Ventures",
+      "OTB Ventures",
+      "Gapminder",
+      "Day One Capital",
+      "LAUNCHub"
+    ],
+    "leadInvestors": [
+      "Hoxton Ventures"
+    ],
+    "title": "Veridion raises $20 million to expand real-time map of businesses",
+    "url": "https://veridion.com/insights/articles/veridion-raises-20-million-to-expand-real-time-map-of-the-worlds-businesses",
+    "source": "Veridion",
+    "summary": "Company intelligence platform monitors commercial changes for risk and procurement teams.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company release has explicit September 16 dateline, $20M Series A and current six investors. CB Insights assigns apparently same financing to February 6; retain company announcement date but flag possible prior close/reannouncement.",
+    "dateCaveat": "Company announcement is September 16; aggregator CB Insights assigns same amount and syndicate to February 6, 2026. Actual close date not verified."
+  },
+  {
+    "id": "slingtherapeutics-seriesc-2026-09-16",
+    "company": "Sling Therapeutics",
+    "domain": "slingtx.com",
+    "date": "2026-09-16",
+    "stage": "Series C",
+    "amountUsd": 123000000,
+    "sector": "Biotech",
+    "investors": [
+      "Forbion",
+      "TPG Life Sciences Innovations",
+      "Sectoral Asset Management"
+    ],
+    "leadInvestors": [
+      "Forbion"
+    ],
+    "title": "Sling Therapeutics Announces $123 Million Series C Financing",
+    "url": "https://slingtx.com/2026/09/16/sling-therapeutics-announces-123-million-series-c-financing-to-advance-phase-3-development-of-its-oral-small-molecule-igf-1r-inhibitor-for-thyroid-eye-disease/",
+    "source": "Sling Therapeutics",
+    "summary": "Financing supports Phase 3 development of oral thyroid eye disease treatment.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 16 Ann Arbor dateline states closed $123M Series C led by Forbion, existing TPG and new Sectoral."
+  },
+  {
+    "id": "ridgeline-seriese-2026-09-16",
+    "company": "Ridgeline",
+    "domain": "ridgeline.ai",
+    "date": "2026-09-16",
+    "stage": "Series E",
+    "amountUsd": 250000000,
+    "sector": "Fintech",
+    "investors": [
+      "Dave Duffield",
+      "Motley Fool Ventures",
+      "Associates of Smead Capital Management",
+      "Patrick O'Shaughnessy"
+    ],
+    "leadInvestors": [
+      "Dave Duffield"
+    ],
+    "url": "https://www.globenewswire.com/de/news-release/2026/09/16/3363158/0/en/ridgeline-raises-250m-series-e-valuing-ai-native-fintech-at-1-425-billion.html",
+    "source": "Ridgeline via GlobeNewswire",
+    "title": "Ridgeline announces Series E financing",
+    "summary": "Investment management platform funding includes founder, customers and individuals.",
+    "location": "Incline Village, Nevada, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 250000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.globenewswire.com/de/news-release/2026/09/16/3363158/0/en/ridgeline-raises-250m-series-e-valuing-ai-native-fintech-at-1-425-billion.html",
+        "source": "Ridgeline via GlobeNewswire",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series E, USD 250,000,000, dated 2026-09-16. Investment management platform funding includes founder, customers and individuals.",
+    "amountOriginal": 250000000,
+    "currency": "USD"
+  },
+  {
+    "id": "noetive-seed-2026-09-16",
+    "company": "Noetive",
+    "domain": "noetive.ai",
+    "date": "2026-09-16",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 41000000,
+    "sector": "Industrial AI",
+    "investors": [
+      "Eclipse",
+      "Craft Ventures",
+      "The Westly Group",
+      "Swish Ventures",
+      "Factory",
+      "Incite Ventures",
+      "Gigascale Capital",
+      "Operator Partners",
+      "Liquid 2 Ventures",
+      "Zach Frenkel",
+      "Andrew Bosworth",
+      "Ahmad Al-Dahle",
+      "Matt Rogers",
+      "Mike Schroepfer",
+      "Dean Leitersdorf",
+      "Moshe Shalev",
+      "Orian Leitersdorf",
+      "Yaser Sheikh",
+      "Boris Sofman"
+    ],
+    "leadInvestors": [
+      "Eclipse"
+    ],
+    "title": "Noetive announces $41M seed financing",
+    "url": "https://noetive.ai/news/noetive-emerges-from-stealth-with-41-million-seed",
+    "source": "Noetive",
+    "summary": "Operational AI and sensing for manufacturing, logistics and other physical industries.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "San Francisco",
+    "sources": [
+      {
+        "url": "https://noetive.ai/news/noetive-emerges-from-stealth-with-41-million-seed",
+        "source": "Noetive",
+        "verifiedBy": "opened_source",
+        "evidence": "September 16 company opening paragraph explicitly states $41M seed led by Eclipse; remainder names current round angels."
+      }
+    ]
+  },
+  {
+    "id": "integral-seriesa-2026-09-16",
+    "company": "Integral",
+    "domain": "integral.de",
+    "date": "2026-09-16",
+    "stage": "Series A",
+    "amountUsd": null,
+    "sector": "Accounting",
+    "investors": [
+      "Mosaic Ventures",
+      "Reid Hoffman",
+      "Cherry Ventures",
+      "General Catalyst",
+      "Puzzle Ventures"
+    ],
+    "leadInvestors": [
+      "Mosaic Ventures",
+      "Reid Hoffman"
+    ],
+    "title": "Integral raises €18m Series A",
+    "url": "https://group.integral.de/press/integral-series-a",
+    "source": "Integral",
+    "summary": "Accounting, tax and payroll service combines software with licensed professionals.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Dated September 16 company post says €18M Series A and all five backers. No FX conversion. €30M+ is cumulative.",
+    "originalAmount": 18000000,
+    "originalCurrency": "EUR",
+    "country": "Germany",
+    "location": "Berlin",
+    "amountOriginal": 18000000,
+    "currency": "EUR"
+  },
+  {
+    "id": "impulsespace-seriesd-2026-09-16-extension",
+    "company": "Impulse Space",
+    "domain": "impulsespace.com",
+    "date": "2026-09-16",
+    "stage": "Series D",
+    "roundVariant": "extension",
+    "amountUsd": 308000000,
+    "originalAmount": 308000000,
+    "originalCurrency": "USD",
+    "sector": "Space",
+    "investors": [
+      "137 Ventures",
+      "BANNER VC",
+      "DFJ Growth",
+      "Linse Capital",
+      "Lux Capital",
+      "Valor Equity Partners"
+    ],
+    "leadInvestors": [],
+    "title": "Impulse Space announces $308 million Series D extension",
+    "url": "https://www.impulsespace.com/updates/impulse-space-announces-308-million-series-d-extension-to-meet-increasing-demand-for-in-space-mobility",
+    "source": "Impulse Space",
+    "summary": "Extension funds in-space mobility. $308 million is incremental; combined Series D totals $808 million. No extension lead named.",
+    "location": "Redondo Beach, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "sources": [
+      {
+        "url": "https://www.impulsespace.com/updates/impulse-space-announces-308-million-series-d-extension-to-meet-increasing-demand-for-in-space-mobility",
+        "source": "Impulse Space",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Extension funds in-space mobility. $308 million is incremental; combined Series D totals $808 million. No extension lead named.",
+    "amountOriginal": 308000000,
+    "currency": "USD"
+  },
+  {
+    "id": "footprint-seriesb-2026-09-16",
+    "company": "Footprint",
+    "domain": "onefootprint.com",
+    "date": "2026-09-16",
+    "stage": "Series B",
+    "amountUsd": 25000000,
+    "sector": "Fintech",
+    "investors": [
+      "QED Investors",
+      "MUFG",
+      "Commerce Ventures",
+      "Lightbank",
+      "Alumni Ventures",
+      "Index Ventures",
+      "Lerer Hippeau",
+      "BoxGroup",
+      "Operator Partners",
+      "Animal Capital"
+    ],
+    "leadInvestors": [
+      "QED Investors"
+    ],
+    "title": "Footprint Raises $25 Million Series B to Scale Percy",
+    "url": "https://www.prnewswire.com/news-releases/footprint-raises-25-million-series-b-to-scale-percy-the-ai-operating-system-for-risk--compliance-302880661.html",
+    "source": "Footprint via PR Newswire",
+    "summary": "AI workflows handle financial crime compliance for banks and fintechs.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Opened original and AOL-syndicated September 16 company release confirms $25M Series B, investors and onefootprint.com domain."
+  },
+  {
+    "id": "circlepharma-seriese-2026-09-16",
+    "company": "Circle Pharma",
+    "domain": "circlepharma.com",
+    "date": "2026-09-16",
+    "stage": "Series E",
+    "amountUsd": 92500000,
+    "sector": "Biotech",
+    "investors": [
+      "The Column Group",
+      "Nextech Invest",
+      "RA Capital Management",
+      "Euclidean Capital",
+      "Eli Lilly and Company"
+    ],
+    "leadInvestors": [
+      "The Column Group"
+    ],
+    "url": "https://circlepharma.com/circle-pharma-announces-92-5-million-series-e-financing-to-advance-first-in-class-cyclin-d1-program-into-clinical-development",
+    "source": "Circle Pharma",
+    "title": "Circle Pharma announces Series E financing",
+    "summary": "Funding advances targeted cancer macrocycle therapies.",
+    "location": "South San Francisco, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 92500000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://circlepharma.com/circle-pharma-announces-92-5-million-series-e-financing-to-advance-first-in-class-cyclin-d1-program-into-clinical-development",
+        "source": "Circle Pharma",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series E, USD 92,500,000, dated 2026-09-16. Funding advances targeted cancer macrocycle therapies.",
+    "amountOriginal": 92500000,
+    "currency": "USD"
+  },
+  {
+    "id": "caddi-seriesd-2026-09-16",
+    "company": "CADDi",
+    "domain": "caddi.com",
+    "date": "2026-09-16",
+    "stage": "Series D",
+    "amountUsd": 114000000,
+    "sector": "Manufacturing software",
+    "investors": [
+      "Moore Strategic Ventures",
+      "Coreline Ventures",
+      "HR Tech Fund",
+      "Woven Capital",
+      "Salesforce Ventures",
+      "Atomico",
+      "Globis Capital Partners",
+      "JPS Growth Investment Limited Partnership"
+    ],
+    "leadInvestors": [],
+    "url": "https://caddi.com/en-us/news/announcements/caddi-seriesd-unicorn-status/",
+    "source": "CADDi",
+    "title": "CADDi announces Series D financing",
+    "summary": "Definitive agreements for manufacturing data platform funding, with North America expansion planned.",
+    "location": "Chicago, United States / Tokyo, Japan",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced_pending_close",
+    "originalAmount": 114000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://caddi.com/en-us/news/announcements/caddi-seriesd-unicorn-status/",
+        "source": "CADDi",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 114,000,000, dated 2026-09-16. Definitive agreements for manufacturing data platform funding, with North America expansion planned.",
+    "amountOriginal": 114000000,
+    "currency": "USD"
+  },
+  {
+    "id": "ayblehealth-seriesa-2026-09-16",
+    "company": "Ayble Health",
+    "domain": "ayblehealth.com",
+    "date": "2026-09-16",
+    "stage": "Series A",
+    "amountUsd": 16000000,
+    "sector": "Healthtech",
+    "investors": [
+      "Neon",
+      "Unum Ventures",
+      "Upfront Ventures",
+      "M13",
+      "Cleveland Clinic Ventures",
+      "DigiTx",
+      "Accomplice"
+    ],
+    "leadInvestors": [
+      "Neon"
+    ],
+    "title": "Ayble Health Raises $16M Series A to Expand Virtual Digestive Health Clinic",
+    "url": "https://www.prnewswire.com/news-releases/ayble-health-raises-16m-series-a-to-expand-the-nations-most-clinically-validated-virtual-digestive-health-clinic-302880020.html",
+    "source": "Ayble Health via PR Newswire",
+    "summary": "Virtual digestive health clinic expands into autoimmune care.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Corrected September 17 release explicitly says original issued September 16; body dateline retains September 16. $16M closed Series A, Neon lead; $27M+ is cumulative."
+  },
+  {
+    "id": "arcee-b-20260916",
+    "company": "Arcee AI",
+    "domain": "arcee.ai",
+    "date": "2026-09-16",
+    "stage": "Series B",
+    "amountUsd": null,
+    "sector": "AI models",
+    "investors": [
+      "Vista Equity Partners",
+      "Cambium Capital",
+      "Emergence Capital",
+      "AI10 Ventures",
+      "Hitachi",
+      "IAG",
+      "M12",
+      "P7",
+      "Wipro"
+    ],
+    "leadInvestors": [
+      "Vista Equity Partners",
+      "Cambium Capital",
+      "Emergence Capital"
+    ],
+    "title": "Arcee AI Reaches $1B+ Valuation with Series B Funding to Advance Frontier Open-Weight AI",
+    "url": "https://www.globenewswire.com/news-release/2026/09/16/3363293/0/en/arcee-ai-reaches-1b-valuation-with-series-b-funding-to-advance-frontier-open-weight-ai.html",
+    "source": "Arcee AI via GlobeNewswire",
+    "summary": "Open-weight model developer announces Series B. Round amount is undisclosed; the $1B+ figure is valuation.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "typesafe-seed-20260915",
+    "company": "TypeSafe",
+    "domain": "typesafe.ai",
+    "date": "2026-09-15",
+    "stage": "Seed",
+    "amountUsd": 40000000,
+    "sector": "AI models",
+    "investors": [
+      "DCVC"
+    ],
+    "leadInvestors": [
+      "DCVC"
+    ],
+    "title": "TypeSafe emerges from stealth with a new way of doing AI",
+    "url": "https://www.dcvc.com/news-insights/typesafe-emerges-from-stealth-with-a-new-way-of-doing-ai/",
+    "source": "DCVC",
+    "summary": "Models target structured decisions for software automation; investor announcement identifies DCVC as seed lead.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "thatch-seriesc-2026-09-15",
+    "company": "Thatch",
+    "domain": "thatch.com",
+    "date": "2026-09-15",
+    "stage": "Series C",
+    "amountUsd": 108000000,
+    "sector": "Healthtech",
+    "investors": [
+      "The General Partnership",
+      "Index Ventures",
+      "Scale Venture Partners",
+      "General Catalyst",
+      "Andreessen Horowitz",
+      "Eli Lilly and Company",
+      "Paychex"
+    ],
+    "leadInvestors": [
+      "The General Partnership",
+      "Index Ventures",
+      "Scale Venture Partners",
+      "General Catalyst",
+      "Andreessen Horowitz"
+    ],
+    "title": "Thatch raises $108M Series C at a $1B valuation",
+    "url": "https://thatch.com/blog/thatch-series-c-announcement",
+    "source": "Thatch",
+    "summary": "Employer healthcare platform enables individual insurance budgets.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company September 15 post confirms amount, Series C and five funds plus Lilly and Paychex. Opened company counsel announcement September 16 explicitly identifies five funds as round leads: https://www.lw.com/en/news/2026/09/latham-advises-thatch-on-series-c ."
+  },
+  {
+    "id": "scaffold-seed-20260915",
+    "company": "Scaffold",
+    "domain": "getscaffold.com",
+    "date": "2026-09-15",
+    "stage": "Seed",
+    "amountUsd": 15000000,
+    "sector": "Construction tech",
+    "investors": [
+      "Navitas Capital",
+      "D.R. Horton",
+      "Pulte Homes",
+      "Builders FirstSource",
+      "Windsor America",
+      "Grid Capital",
+      "Home Technology Ventures",
+      "Stage2 Capital",
+      "Ivy Zelman"
+    ],
+    "leadInvestors": [
+      "Navitas Capital"
+    ],
+    "title": "Scaffold Raises $15 Million to Connect the Systems That Run Residential Construction",
+    "url": "https://www.globenewswire.com/news-release/2026/09/15/3362272/0/en/scaffold-raises-15-million-to-connect-the-systems-that-run-residential-construction.html",
+    "source": "Scaffold via GlobeNewswire",
+    "summary": "Software synchronizes job information across contractor, supplier and homebuilder systems.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "profound-seriesd-2026-09-15",
+    "company": "Profound",
+    "domain": "tryprofound.com",
+    "date": "2026-09-15",
+    "stage": "Series D",
+    "amountUsd": 180000000,
+    "sector": "Marketing software",
+    "investors": [
+      "Sequoia Capital",
+      "Kleiner Perkins",
+      "Lightspeed Venture Partners",
+      "Khosla Ventures",
+      "Saga Ventures",
+      "Evantic",
+      "South Park Commons"
+    ],
+    "leadInvestors": [
+      "Sequoia Capital",
+      "Kleiner Perkins"
+    ],
+    "url": "https://www.globenewswire.com/de/news-release/2026/09/15/3362180/0/en/profound-raises-180m-series-d-at-1-8b-valuation-to-build-the-ai-platform-for-marketing-teams.html",
+    "source": "Profound via GlobeNewswire",
+    "title": "Profound announces Series D financing",
+    "summary": "Funding expands marketing agents and applied AI research.",
+    "location": "New York, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 180000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.globenewswire.com/de/news-release/2026/09/15/3362180/0/en/profound-raises-180m-series-d-at-1-8b-valuation-to-build-the-ai-platform-for-marketing-teams.html",
+        "source": "Profound via GlobeNewswire",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 180,000,000, dated 2026-09-15. Funding expands marketing agents and applied AI research.",
+    "amountOriginal": 180000000,
+    "currency": "USD"
+  },
+  {
+    "id": "liquidcompute-seed-2026-09-15",
+    "company": "Liquid Compute",
+    "domain": "liquidcompute.com",
+    "date": "2026-09-15",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 15000000,
+    "sector": "Fintech / AI infrastructure",
+    "investors": [
+      "FirstMark",
+      "Chemistry",
+      "K8 Capital",
+      "Night Capital",
+      "TrueBridge",
+      "Brainchild Holdings",
+      "UFO Holdings",
+      "Dmitry Balyasny"
+    ],
+    "leadInvestors": [
+      "FirstMark",
+      "Chemistry"
+    ],
+    "title": "Liquid Compute announces $15M seed financing",
+    "url": "https://www.vcaonline.com/news/2026091512/liquid-compute-launches-with-15m-to-build-a-regulated-exchange-for-ai-infrastructure/",
+    "source": "Liquid Compute announcement via VCA Online",
+    "summary": "Compute capacity marketplace developing regulated financial market infrastructure.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "New York",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026091512/liquid-compute-launches-with-15m-to-build-a-regulated-exchange-for-ai-infrastructure/",
+        "source": "Liquid Compute announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 15 opening paragraph specifies $15M seed and named participants. YC is historical accelerator affiliation; trading partners excluded from investor tags."
+      }
+    ]
+  },
+  {
+    "id": "isometric-seriesa-2026-09-15-extension",
+    "company": "Isometric",
+    "domain": "isometric.com",
+    "date": "2026-09-15",
+    "stage": "Series A",
+    "amountUsd": null,
+    "sector": "Climate tech",
+    "investors": [
+      "Intercontinental Exchange",
+      "Acario Innovation",
+      "BY Venture Partners",
+      "Dubai Future District Fund",
+      "Earth VC",
+      "Motion Ventures",
+      "One Capital",
+      "Plug and Play",
+      "Verb Ventures",
+      "Max Junestrand"
+    ],
+    "leadInvestors": [],
+    "title": "Intercontinental Exchange backs Isometric in $50m Series A",
+    "url": "https://isometric.com/writing-articles/intercontinental-exchange-backs-isometric-in-50m-series-a",
+    "source": "Isometric",
+    "summary": "Certification platform expands beyond carbon removal to industrial markets.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 15 company announcement states Series A initially announced June now totals $50M; total lifetime $75M. New close amount not explicitly stated, so null. June post announced $40M; a $10M increment is inferable but not stored as reported. Investors listed are named in this September announcement.",
+    "roundVariant": "extension",
+    "roundTotalUsd": 50000000
+  },
+  {
+    "id": "g5labs-seed-2026-09-15",
+    "company": "G5 Labs",
+    "domain": "g5labs.ai",
+    "date": "2026-09-15",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 14000000,
+    "sector": "Developer tools",
+    "investors": [
+      "Pillar VC",
+      "Battery Ventures",
+      "Omega Venture Partners",
+      "Encoded Ventures",
+      "Jeff Dean"
+    ],
+    "leadInvestors": [
+      "Pillar VC",
+      "Battery Ventures"
+    ],
+    "title": "G5 Labs announces $14M seed financing",
+    "url": "https://g5labs.ai/press",
+    "source": "G5 Labs",
+    "summary": "Natural-language software development platform based on structured intent graphs.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Boston",
+    "sources": [
+      {
+        "url": "https://g5labs.ai/press",
+        "source": "G5 Labs",
+        "verifiedBy": "opened_source",
+        "evidence": "September 15 company release states $14M seed, two co-leads, two other funds and Jeff Dean."
+      }
+    ]
+  },
+  {
+    "id": "fincom-seed-2026-09-15",
+    "company": "Fin.com",
+    "domain": "fin.com",
+    "date": "2026-09-15",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 20000000,
+    "sector": "Fintech",
+    "investors": [
+      "Expa",
+      "Garrett Camp",
+      "Coinbase Ventures",
+      "Tenet Fund",
+      "Bam Azizi",
+      "Second Sight Ventures"
+    ],
+    "leadInvestors": [
+      "Expa",
+      "Garrett Camp"
+    ],
+    "title": "Fin.com announces $20M seed financing",
+    "url": "https://www.vcaonline.com/news/2026091516/fin-com-emerges-from-stealth-with-20m-from-expa-and-coinbase-ventures-powering-customers-that-serve-825-million-users/",
+    "source": "Fin.com announcement via VCA Online",
+    "summary": "Cross-border money movement platform combines local payment rails, stablecoins and liquidity.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "New York",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026091516/fin-com-emerges-from-stealth-with-20m-from-expa-and-coinbase-ventures-powering-customers-that-serve-825-million-users/",
+        "source": "Fin.com announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 15 release paragraph 10 explicitly calls $20M seed led by Expa and Garrett Camp. Unnamed Figure founders and family offices omitted. Advisory board members not automatically investors."
+      }
+    ]
+  },
+  {
+    "id": "decimalai-seed-2026-09-15",
+    "company": "Decimal AI",
+    "domain": "decimal.app",
+    "date": "2026-09-15",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 4000000,
+    "sector": "Enterprise AI",
+    "investors": [
+      "Khosla Ventures",
+      "Kearny Jackson",
+      "Atlassian Ventures",
+      "Weekend Fund",
+      "Claire Johnson",
+      "Michelle Valentin",
+      "Rimple Patel"
+    ],
+    "leadInvestors": [
+      "Khosla Ventures",
+      "Kearny Jackson"
+    ],
+    "title": "Decimal AI announces $4M seed financing",
+    "url": "https://www.prnewswire.com/news-releases/decimal-ai-announces-4-million-seed-round-to-bring-customer-engineering-to-software-companies-302879089.html",
+    "source": "Decimal AI via PR Newswire",
+    "summary": "Technical support platform investigates code, logs and customer context.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "San Francisco",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/decimal-ai-announces-4-million-seed-round-to-bring-customer-engineering-to-software-companies-302879089.html",
+        "source": "Decimal AI via PR Newswire",
+        "verifiedBy": "opened_source",
+        "evidence": "September 15 release confirms $4M seed and all listed current investors. Company blog corroborates amount and leads. decimal.ai is a different product; verified correct domain decimal.app."
+      },
+      {
+        "url": "https://www.decimal.app/blog/decimal-seed-customer-engineering",
+        "verifiedBy": "opened_source"
+      }
+    ]
+  },
+  {
+    "id": "branchenergy-seriesb-2026-09-15",
+    "company": "Branch Energy",
+    "domain": "branchenergy.com",
+    "date": "2026-09-15",
+    "stage": "Series B",
+    "amountUsd": 33000000,
+    "sector": "Energy storage",
+    "investors": [
+      "Piva Capital",
+      "Clean Energy Ventures",
+      "Active Impact Investments",
+      "Whitecap Venture Partners",
+      "Prelude Ventures",
+      "Zero Infinity Partners",
+      "Inovia Capital"
+    ],
+    "leadInvestors": [
+      "Piva Capital",
+      "Clean Energy Ventures"
+    ],
+    "title": "Branch Energy Raises $33M to Deliver AI Power in Weeks, Not Years",
+    "url": "https://www.globenewswire.com/news-release/2026/09/15/3362234/0/en/branch-energy-raises-33m-to-deliver-ai-power-in-weeks-not-years.html",
+    "source": "Branch Energy via GlobeNewswire",
+    "summary": "Distributed batteries add capacity at existing commercial electricity connections.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 15 Houston release states $33M Series B and complete syndicate."
+  },
+  {
+    "id": "aitiologic-seed-2026-09-15",
+    "company": "Aitiologic",
+    "domain": "aitiologic.com",
+    "date": "2026-09-15",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": null,
+    "sector": "Biotech / diagnostics",
+    "investors": [
+      "Heal Capital",
+      "Ananda Impact Ventures",
+      "PUSH VC",
+      "LANA Ventures",
+      "Gordon Sanghera"
+    ],
+    "leadInvestors": [
+      "Heal Capital",
+      "Ananda Impact Ventures"
+    ],
+    "title": "Aitiologic announces seed financing",
+    "url": "https://www.globenewswire.com/news-release/2026/09/15/3361783/0/en/aitiologic-raises-6-4-million-in-oversubscribed-seed-financing-to-advance-tissue-resolved-liquid-biopsy-platform-and-preeclampsia-lead-program.html",
+    "source": "Aitiologic via GlobeNewswire",
+    "summary": "Liquid biopsy platform initially targets early preeclampsia risk detection.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "Austria",
+    "location": "Vienna",
+    "amountOriginal": 6400000,
+    "reportedUsdEquivalent": 7400000,
+    "sources": [
+      {
+        "url": "https://www.globenewswire.com/news-release/2026/09/15/3361783/0/en/aitiologic-raises-6-4-million-in-oversubscribed-seed-financing-to-advance-tissue-resolved-liquid-biopsy-platform-and-preeclampsia-lead-program.html",
+        "source": "Aitiologic via GlobeNewswire",
+        "verifiedBy": "opened_source",
+        "evidence": "September 15 release states EUR6.4M seed, approximately USD7.4M, with both co-leads. PUSH and LANA continue in this round. Grants and EIF support not equity investors."
+      }
+    ],
+    "currency": "EUR"
+  },
+  {
+    "id": "temporal-seriese-2026-09-14",
+    "company": "Temporal",
+    "domain": "temporal.io",
+    "date": "2026-09-14",
+    "stage": "Series E",
+    "amountUsd": 550000000,
+    "sector": "Developer infrastructure",
+    "investors": [
+      "Lightspeed Venture Partners",
+      "Wellington Management",
+      "Growth Equity at Goldman Sachs Alternatives",
+      "Tiger Global",
+      "T. Rowe Price",
+      "SV Angel",
+      "Andreessen Horowitz",
+      "Sequoia Capital",
+      "Index Ventures",
+      "GIC",
+      "Sapphire Ventures",
+      "Amplify Partners"
+    ],
+    "leadInvestors": [
+      "Lightspeed Venture Partners",
+      "Wellington Management",
+      "Growth Equity at Goldman Sachs Alternatives",
+      "Tiger Global"
+    ],
+    "url": "https://www.businesswire.com/news/home/20260914222012/en/Temporal-Raises-$550M-at-a-$12.55B-Valuation-as-Demand-Surges-for-Reliable-AI-Infrastructure",
+    "source": "Temporal via Business Wire",
+    "title": "Temporal announces Series E financing",
+    "summary": "Funding supports durable workflow execution infrastructure and global operations.",
+    "location": "San Francisco, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 550000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20260914222012/en/Temporal-Raises-$550M-at-a-$12.55B-Valuation-as-Demand-Surges-for-Reliable-AI-Infrastructure",
+        "source": "Temporal via Business Wire",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series E, USD 550,000,000, dated 2026-09-14. Funding supports durable workflow execution infrastructure and global operations.",
+    "amountOriginal": 550000000,
+    "currency": "USD"
+  },
+  {
+    "id": "nuance-a-20260914",
+    "company": "Nuance Labs",
+    "domain": "nuancelabs.ai",
+    "date": "2026-09-14",
+    "stage": "Series A",
+    "amountUsd": 50000000,
+    "sector": "AI models",
+    "investors": [
+      "Lightspeed Venture Partners",
+      "Accel",
+      "South Park Commons",
+      "NVIDIA",
+      "Define Ventures"
+    ],
+    "leadInvestors": [
+      "Lightspeed Venture Partners"
+    ],
+    "title": "Nuance Labs Raises $50M Series A to Build the Foundation Model for Human Conversation and Expression",
+    "url": "https://www.nuancelabs.ai/nuance-labs-series-a-release",
+    "source": "Nuance Labs",
+    "summary": "Research lab builds a model that interprets and generates audiovisual expression in real time.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "boomeranghr-seed-2026-09-14",
+    "company": "BoomerangHR",
+    "domain": "boomeranghr.com",
+    "date": "2026-09-14",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 12700000,
+    "sector": "HR technology",
+    "investors": [
+      "Kalos Ventures",
+      "Album Ventures",
+      "Monta Vista Capital",
+      "Capital Eleven",
+      "Strada Education Foundation"
+    ],
+    "leadInvestors": [
+      "Kalos Ventures",
+      "Album Ventures"
+    ],
+    "title": "BoomerangHR announces $12.7M seed financing",
+    "url": "https://www.vcaonline.com/news/2026091408/boomeranghr-closes-12m-seed-round-to-help-companies-build-and-maintain-talent-through-comprehensive-alumni-management-and-offboarding/",
+    "source": "BoomerangHR announcement via VCA Online",
+    "summary": "Employee offboarding and alumni management platform.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "New York",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026091408/boomeranghr-closes-12m-seed-round-to-help-companies-build-and-maintain-talent-through-comprehensive-alumni-management-and-offboarding/",
+        "source": "BoomerangHR announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 14 release body specifies $12.7M seed and two leads, despite rounded $12M+ title. September 15 roundup publication is not announcement date."
+      }
+    ]
+  },
+  {
+    "id": "a5x-seriesd-2026-09-14",
+    "company": "A5X",
+    "domain": "a5x.com.br",
+    "date": "2026-09-14",
+    "stage": "Series D",
+    "amountUsd": null,
+    "originalAmount": 360000000,
+    "originalCurrency": "BRL",
+    "sector": "Fintech",
+    "investors": [
+      "Morgan Stanley",
+      "Goldman Sachs",
+      "Kaszek",
+      "IMC",
+      "Jump Trading",
+      "Optiver",
+      "XTX Markets",
+      "ABN AMRO Clearing"
+    ],
+    "leadInvestors": [
+      "Morgan Stanley",
+      "Goldman Sachs",
+      "Kaszek"
+    ],
+    "title": "A5X raises R$360 million Series D",
+    "url": "https://a5x.com.br/en/blog/a5x-en/a5x-raises-r360-million-in-series-d-led-by-morgan-stanley-goldman-sachs-and-kaszek-at-a-r2-7-billion-valuation/",
+    "source": "A5X",
+    "summary": "Funding supports a Brazilian derivatives exchange and clearing house. XP exercised a call option in parallel and is excluded from round investors. Primary source reports BRL only.",
+    "location": "São Paulo, Brazil",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://a5x.com.br/en/blog/a5x-en/a5x-raises-r360-million-in-series-d-led-by-morgan-stanley-goldman-sachs-and-kaszek-at-a-r2-7-billion-valuation/",
+        "source": "A5X",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, BRL 360,000,000, dated 2026-09-14. Funding supports a Brazilian derivatives exchange and clearing house. XP exercised a call option in parallel and is excluded from round investors. Primary source reports BRL only.",
+    "amountOriginal": 360000000,
+    "currency": "BRL"
+  },
+  {
+    "id": "fortaegis-seriesa-2026-09-13",
+    "company": "Fortaegis",
+    "domain": "fortaegis.com",
+    "date": "2026-09-13",
+    "stage": "Series A",
+    "amountUsd": 50000000,
+    "sector": "Semiconductors",
+    "investors": [
+      "Serendipity Capital",
+      "TEL Venture Capital",
+      "TNO",
+      "Prodrive Technologies",
+      "NP-Hard Ventures",
+      "NovaCapital",
+      "Access Ventures",
+      "Coalition Capital"
+    ],
+    "leadInvestors": [
+      "Serendipity Capital"
+    ],
+    "title": "Fortaegis raises oversubscribed $50 million Series A",
+    "url": "https://fortaegis.com/series-a-press-release",
+    "source": "Fortaegis",
+    "summary": "Secure computing silicon platform moves toward commercial production.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 13 Amsterdam dateline, $50M Series A. Investor group section lists all participants and identifies returning Serendipity as lead."
+  },
+  {
+    "id": "archy-seriesc-2026-09-11",
+    "company": "Archy",
+    "domain": "archy.com",
+    "date": "2026-09-11",
+    "stage": "Series C",
+    "amountUsd": 50000000,
+    "sector": "Healthtech",
+    "investors": [
+      "JMI Equity",
+      "TCV",
+      "Entrée Capital",
+      "Bessemer Venture Partners",
+      "CRV",
+      "Alven"
+    ],
+    "leadInvestors": [
+      "JMI Equity"
+    ],
+    "title": "Archy raises $50 million to bring dental practices into the AI era",
+    "url": "https://www.archy.com/blog/weve-raised-50-million-to-bring-dental-practices-into-the-ai-era",
+    "source": "Archy",
+    "summary": "Dental practice management software automates insurance, scheduling and administration.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company post September 11 confirms $50M Series C with full syndicate. Counsel's September 14 article corroborates but is not announcement date."
+  },
+  {
+    "id": "inspiren-seriesc-2026-09-10",
+    "company": "Inspiren",
+    "domain": "inspiren.com",
+    "date": "2026-09-10",
+    "stage": "Series C",
+    "amountUsd": 70000000,
+    "sector": "Healthtech",
+    "investors": [
+      "NewView Capital",
+      "Insight Partners",
+      "Primary Venture Partners",
+      "Scale Venture Partners",
+      "Vintage Investment Partners",
+      "Lightbank",
+      "Avenir Growth Capital",
+      "Story Ventures",
+      "Camber Creek"
+    ],
+    "leadInvestors": [
+      "NewView Capital"
+    ],
+    "title": "Inspiren Raises $70M Series C to Scale Physical AI for Senior Living",
+    "url": "https://www.prnewswire.com/news-releases/inspiren-raises-70m-series-c-to-scale-physical-ai-for-senior-living-302874801.html",
+    "source": "Inspiren via PR Newswire",
+    "summary": "Sensors and software help senior living caregivers monitor residents.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 10 company release explicitly names $70M Series C and full current syndicate. $225M is cumulative, not round size."
+  },
+  {
+    "id": "solsticeoncology-seriesa-2026-09-09",
+    "company": "Solstice Oncology",
+    "domain": "solsticeoncology.com",
+    "date": "2026-09-09",
+    "stage": "Series A",
+    "amountUsd": 225000000,
+    "sector": "Biotech",
+    "investors": [
+      "RA Capital Management",
+      "Canaan Partners",
+      "Forbion"
+    ],
+    "leadInvestors": [
+      "RA Capital Management"
+    ],
+    "title": "Solstice Oncology Launches with $225 Million Series A Financing",
+    "url": "https://www.solsticeoncology.com/press-release",
+    "source": "Solstice Oncology",
+    "summary": "Clinical-stage company advances porustobart for cancer treatment before surgery.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company September 9 Boston release states $225M Series A financing led by RA Capital and joined by Canaan, Forbion and unnamed others."
+  },
+  {
+    "id": "savvywealth-seriesc-2026-09-09",
+    "company": "Savvy Wealth",
+    "domain": "savvywealth.com",
+    "date": "2026-09-09",
+    "stage": "Series C",
+    "amountUsd": 100000000,
+    "sector": "Fintech",
+    "investors": [
+      "Halo Fund",
+      "Thrive Capital",
+      "Industry Ventures",
+      "Canvas Prime",
+      "Index Ventures",
+      "Vestigo Ventures",
+      "The House Fund",
+      "Allianz Life Ventures",
+      "Alumni Ventures",
+      "Euclidean Capital"
+    ],
+    "leadInvestors": [
+      "Halo Fund"
+    ],
+    "title": "Community as infrastructure: announcing our $100M Series C",
+    "url": "https://www.savvywealth.com/community-as-infrastructure",
+    "source": "Savvy Wealth",
+    "summary": "Wealth advisor platform expands its technology and advisor community.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company post dated September 9 states $100M Series C at $600M valuation, led by Halo Fund; remaining named firms are explicitly doubling down."
+  },
+  {
+    "id": "rebaba-seed-2026-09-09",
+    "company": "Rebaba",
+    "domain": "rebaba.se",
+    "date": "2026-09-09",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": null,
+    "sector": "Energy storage",
+    "investors": [
+      "Sistafund",
+      "EIT Urban Mobility"
+    ],
+    "leadInvestors": [
+      "Sistafund"
+    ],
+    "title": "Rebaba announces seed financing",
+    "url": "https://rebaba.se/news/rebaba-closes-4-6-million-seed-round",
+    "source": "Rebaba",
+    "summary": "Second-life EV battery energy storage systems.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "Sweden",
+    "location": "Stockholm",
+    "amountOriginal": 44100000,
+    "reportedUsdEquivalent": 4600000,
+    "sources": [
+      {
+        "url": "https://rebaba.se/news/rebaba-closes-4-6-million-seed-round",
+        "source": "Rebaba",
+        "verifiedBy": "opened_source",
+        "evidence": "Company reports USD4.6M and SEK44.1M seed, with Sistafund lead and EIT alongside. Investor homepage dates linked announcement September 9. Unknown existing investors omitted."
+      },
+      {
+        "url": "https://sistafund.com/",
+        "verifiedBy": "opened_source"
+      }
+    ],
+    "currency": "SEK"
+  },
+  {
+    "id": "navionneurosciences-seed-2026-09-09-firstclose",
+    "company": "Navion Neurosciences",
+    "domain": "navionneuro.com",
+    "date": "2026-09-09",
+    "stage": "Seed",
+    "roundVariant": "first close",
+    "amountUsd": 10800000,
+    "sector": "Biotech",
+    "investors": [
+      "Angelini Lumira Biosciences Fund",
+      "3B Future Health Fund",
+      "UVA LVG Seed Fund",
+      "Virginia Innovation Partnership Corporation",
+      "VTC Innovation Fund"
+    ],
+    "leadInvestors": [
+      "Angelini Lumira Biosciences Fund"
+    ],
+    "title": "Navion Neurosciences announces $10.8M seed financing",
+    "url": "https://www.vcaonline.com/news/2026090905/navion-neurosciences-closes-10-8-million-seed-financing-to-advance-precision-sodium-channel-medicines-for-epilepsy-and-neuropathic-pain/",
+    "source": "Navion Neurosciences announcement via VCA Online",
+    "summary": "Precision sodium-channel medicines for epilepsy and neuropathic pain.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Charlottesville",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026090905/navion-neurosciences-closes-10-8-million-seed-financing-to-advance-precision-sodium-channel-medicines-for-epilepsy-and-neuropathic-pain/",
+        "source": "Navion Neurosciences announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 9 opening paragraph specifies $10.8M first closing of Seed financing. Management also participated but individuals unnamed. Amount is first close, not final target."
+      }
+    ]
+  },
+  {
+    "id": "lightfield-a-20260909",
+    "company": "Lightfield",
+    "domain": "lightfield.app",
+    "date": "2026-09-09",
+    "stage": "Series A",
+    "amountUsd": 47000000,
+    "sector": "Enterprise AI",
+    "investors": [
+      "Andreessen Horowitz",
+      "Maverick Capital",
+      "Coatue",
+      "Audacious",
+      "Alumni Ventures",
+      "Greylock",
+      "Lightspeed Venture Partners"
+    ],
+    "leadInvestors": [
+      "Andreessen Horowitz"
+    ],
+    "title": "Lightfield Raises $47 Million Series A to Build the CRM for Companies that Run on Agents",
+    "url": "https://www.prnewswire.com/news-releases/lightfield-raises-47-million-series-a-to-build-the-crm-for-companies-that-run-on-agents-302874024.html",
+    "source": "Lightfield via PR Newswire",
+    "summary": "AI CRM captures customer interactions to supply context for sales agents and teams.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "latitude-a-20260909",
+    "company": "Latitude",
+    "domain": "latitude.xyz",
+    "date": "2026-09-09",
+    "stage": "Series A",
+    "amountUsd": 35000000,
+    "sector": "Fintech",
+    "investors": [
+      "Oak HC/FT",
+      "NEA",
+      "Coinbase Ventures",
+      "Lightspeed Faction",
+      "OpenFX",
+      "Wilson Sonsini"
+    ],
+    "leadInvestors": [
+      "Oak HC/FT"
+    ],
+    "title": "Latitude Raises $35M Series A to Connect Stablecoin Payments to Local Rails Worldwide",
+    "url": "https://www.streetinsider.com/Business%2BWire/Latitude%2BRaises%2B%2435M%2BSeries%2BA%2Bto%2BConnect%2BStablecoin%2BPayments%2Bto%2BLocal%2BRails%2BWorldwide/27040844.html",
+    "source": "Latitude via Business Wire / StreetInsider",
+    "summary": "Payments infrastructure links stablecoins to local currency rails for cross-border transfers.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "euno-seriesa-2026-09-09",
+    "company": "Euno",
+    "domain": "euno.ai",
+    "date": "2026-09-09",
+    "stage": "Series A",
+    "amountUsd": 23000000,
+    "sector": "Enterprise AI",
+    "investors": [
+      "N47",
+      "10D",
+      "Yinon Kostika",
+      "Yotam Segev",
+      "Ofir Ehrlich",
+      "Rotem Weiss",
+      "Mark Nelson"
+    ],
+    "leadInvestors": [
+      "N47"
+    ],
+    "title": "Euno Raises $23 Million Series A to Build the AI Context Brain for the Enterprise",
+    "url": "https://www.tmcnet.com/usubmit/-euno-raises-23-million-series-to-build-ai-/2026/09/09/10442483.htm",
+    "source": "Euno via PR Newswire / TMCnet",
+    "summary": "Context platform helps enterprise AI agents interpret and govern business data.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 9 company release specifies $23M Series A and named participants. Individual founders are investors personally, not Wiz, Cyera, Eon, Tavily or Tableau corporate investors. $29M is total funding.",
+    "location": "San Francisco and Tel Aviv"
+  },
+  {
+    "id": "stokespace-seriese-2026-09-08",
+    "company": "Stoke Space",
+    "domain": "stokespace.com",
+    "date": "2026-09-08",
+    "stage": "Series E",
+    "amountUsd": 1000000000,
+    "sector": "Space",
+    "investors": [
+      "Point72 Ventures",
+      "Spark Capital",
+      "General Innovation",
+      "Glade Brook Capital",
+      "US Innovation Technology",
+      "Washington Harbour Partners",
+      "Woven Capital",
+      "Y Combinator"
+    ],
+    "leadInvestors": [
+      "Point72 Ventures",
+      "Spark Capital"
+    ],
+    "url": "https://www.stokespace.com/news/stoke-space-series-e",
+    "source": "Stoke Space",
+    "title": "Stoke Space announces Series E financing",
+    "summary": "Initial closing of billion-dollar round supports reusable Nova launch vehicles. The announcement does not quantify the amount already closed.",
+    "location": "Kent, Washington, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "initial_close",
+    "originalAmount": 1000000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.stokespace.com/news/stoke-space-series-e",
+        "source": "Stoke Space",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series E, USD 1,000,000,000, dated 2026-09-08. Initial closing of billion-dollar round supports reusable Nova launch vehicles. The announcement does not quantify the amount already closed.",
+    "amountOriginal": 1000000000,
+    "currency": "USD"
+  },
+  {
+    "id": "moonwalkbiosciences-seriesb-2026-09-08",
+    "company": "Moonwalk Biosciences",
+    "domain": "moonwalk.bio",
+    "date": "2026-09-08",
+    "stage": "Series B",
+    "amountUsd": 70000000,
+    "sector": "Biotech",
+    "investors": [
+      "Alpha Wave",
+      "YK Bioventures",
+      "Eli Lilly and Company",
+      "Gaorong Ventures",
+      "ARCH Venture Partners",
+      "Khosla Ventures",
+      "Future Ventures"
+    ],
+    "leadInvestors": [
+      "Alpha Wave",
+      "YK Bioventures"
+    ],
+    "title": "Moonwalk Biosciences Announces $70 Million Series B Financing",
+    "url": "https://markets.financialcontent.com/lightport.lightport8/article/bizwire-2026-9-8-moonwalk-biosciences-announces-70-million-series-b-financing-to-advance-adipose-targeted-rnai-therapies-for-obesity-and-cardiometabolic-diseases",
+    "source": "Moonwalk Biosciences via Business Wire / FinancialContent",
+    "summary": "RNA interference biotech targets adipose tissue for obesity and cardiometabolic disease.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 8 syndicated company release says closed $70M Series B and current syndicate. Aggregator mislabels Alpha Wave as Wave Ventures; retain primary name."
+  },
+  {
+    "id": "mistralai-seriesd-2026-09-08",
+    "company": "Mistral AI",
+    "domain": "mistral.ai",
+    "date": "2026-09-08",
+    "stage": "Series D",
+    "amountUsd": null,
+    "sector": "AI models",
+    "investors": [
+      "Samsung Electronics",
+      "Scaleup Europe Fund (EQT)",
+      "PSG Equity",
+      "Advent",
+      "BlackRock",
+      "Grand Duchy of Luxembourg",
+      "Andreessen Horowitz",
+      "ASML",
+      "Belfius",
+      "BNP Paribas CIB",
+      "Bpifrance",
+      "Carmignac",
+      "DST Global",
+      "Eurazeo",
+      "General Catalyst",
+      "Headline",
+      "Hillspire",
+      "Index Ventures",
+      "Korelya Capital",
+      "Lightspeed Venture Partners",
+      "NVIDIA",
+      "Phoenix Court Solar",
+      "Salesforce Ventures"
+    ],
+    "leadInvestors": [
+      "Samsung Electronics",
+      "Scaleup Europe Fund (EQT)",
+      "PSG Equity"
+    ],
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "source": "Mistral AI",
+    "title": "Mistral AI announces Series D financing",
+    "summary": "EUR 3 billion funds AI research, computing capacity and international expansion. USD amount deliberately not converted.",
+    "location": "France",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 3000000000,
+    "originalCurrency": "EUR",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "source": "Mistral AI",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      },
+      {
+        "url": "https://mistral.ai/news/",
+        "source": "Mistral newsroom index",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, EUR 3,000,000,000, dated 2026-09-08. EUR 3 billion funds AI research, computing capacity and international expansion. USD amount deliberately not converted.",
+    "amountOriginal": 3000000000,
+    "currency": "EUR"
+  },
+  {
+    "id": "herdr-seed-2026-09-08",
+    "company": "Herdr",
+    "domain": "herdr.dev",
+    "date": "2026-09-08",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 6000000,
+    "sector": "Developer tools",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Y Combinator",
+      "e2vc",
+      "Tobi Lütke",
+      "Dane Knecht",
+      "Görkem Yurtseven"
+    ],
+    "leadInvestors": [
+      "Bessemer Venture Partners"
+    ],
+    "title": "Herdr announces $6M seed financing",
+    "url": "https://herdr.dev/blog/herdr-raised-a-seed/",
+    "source": "Herdr",
+    "summary": "Open-source terminal runtime for persistent coding agents across machines.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": null,
+    "location": null,
+    "sources": [
+      {
+        "url": "https://herdr.dev/blog/herdr-raised-a-seed/",
+        "source": "Herdr",
+        "verifiedBy": "opened_source",
+        "evidence": "September 8 founder post explicitly announces $6M seed and every listed investor. Some databases use September 10; company publication wins. Company geography not established by this source."
+      }
+    ]
+  },
+  {
+    "id": "genhealthai-seriesa-2026-09-08",
+    "company": "GenHealth.ai",
+    "domain": "genhealth.ai",
+    "date": "2026-09-08",
+    "stage": "Series A",
+    "amountUsd": 16500000,
+    "sector": "Healthtech",
+    "investors": [
+      "Flare Capital Partners",
+      "Craft Ventures",
+      "Obvious Ventures",
+      "Eniac Ventures",
+      "InHealth Ventures",
+      "Epsilon Health Investors",
+      "ARTIS"
+    ],
+    "leadInvestors": [
+      "Flare Capital Partners"
+    ],
+    "title": "GenHealth.ai Raises $16.5 Million Series A",
+    "url": "https://www.newswire.com/news/genhealth-ai-raises-16-5-million-series-a-to-build-ai-agents-that-run-the",
+    "source": "GenHealth.ai via Newswire",
+    "summary": "AI agents handle healthcare administration inside existing provider systems.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 8 Boston company release states amount, Series A and current seven investors. $30M is cumulative.",
+    "country": "United States",
+    "location": "Boston"
+  },
+  {
+    "id": "frytemobility-seed-2026-09-08",
+    "company": "FRYTE Mobility",
+    "domain": "fryte.com",
+    "date": "2026-09-08",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": null,
+    "sector": "Climate / logistics",
+    "investors": [
+      "4impact capital",
+      "Rethink Ventures",
+      "Revent",
+      "F-LOG",
+      "accilium ventures"
+    ],
+    "leadInvestors": [
+      "4impact capital",
+      "Rethink Ventures"
+    ],
+    "title": "FRYTE Mobility announces seed financing",
+    "url": "https://www.4impact.vc/articles/fryte-mobility-raises-seed-round-co-led-by-4impact-capital-and-rethink-ventures",
+    "source": "4impact capital",
+    "summary": "Coordinates electric truck routes with charging capacity.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "Germany",
+    "location": "Munich",
+    "amountOriginal": 3500000,
+    "sources": [
+      {
+        "url": "https://www.4impact.vc/articles/fryte-mobility-raises-seed-round-co-led-by-4impact-capital-and-rethink-ventures",
+        "source": "4impact capital",
+        "verifiedBy": "opened_source",
+        "evidence": "Investor release posted September 9 contains Munich September 8 announcement dateline. EUR3.5M Seed, not EUR5M total. Co-leads and follow-on participants explicit."
+      }
+    ],
+    "currency": "EUR"
+  },
+  {
+    "id": "cloverleaf-seed-20260908",
+    "company": "Cloverleaf Bio",
+    "domain": "cloverleafbio.com",
+    "date": "2026-09-08",
+    "stage": "Seed",
+    "amountUsd": 33000000,
+    "sector": "Biotech",
+    "investors": [
+      "4BIO Capital",
+      "AbbVie Ventures",
+      "Eli Lilly and Company",
+      "Boehringer Ingelheim Venture Fund",
+      "Draper Associates",
+      "Mission BioCapital",
+      "American Cancer Society BrightEdge"
+    ],
+    "leadInvestors": [
+      "4BIO Capital"
+    ],
+    "title": "Cloverleaf Bio Raises $33 Million Seed Financing to Advance Novel RNA-Based Cancer Therapeutics",
+    "url": "https://www.globenewswire.com/news-release/2026/09/08/3357463/0/en/cloverleaf-bio-raises-33-million-seed-financing-to-advance-novel-rna-based-cancer-therapeutics.html",
+    "source": "Cloverleaf Bio via GlobeNewswire",
+    "summary": "Yale spinout develops engineered tRNA cancer therapies, with pharma investors joining its seed round.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "celero-c-20260908",
+    "company": "Celero Communications",
+    "domain": "celero.inc",
+    "date": "2026-09-08",
+    "stage": "Series C",
+    "amountUsd": 275000000,
+    "sector": "Semiconductors",
+    "investors": [
+      "Atreides Management",
+      "Valor Equity Partners",
+      "CapitalG",
+      "Sutter Hill Ventures",
+      "Maverick Silicon"
+    ],
+    "leadInvestors": [
+      "Atreides Management",
+      "Valor Equity Partners",
+      "CapitalG"
+    ],
+    "title": "Celero Communications Raises $275 Million Series C Following Validation of Industry’s First 2nm Coherent DSP Silicon",
+    "url": "https://celero.inc/celero-communications-raises-275-million-series-c-following-validation-of-industrys-first-2nm-coherent-dsp-silicon/",
+    "source": "Celero Communications",
+    "summary": "Optical connectivity chip developer funds its roadmap and production readiness for AI data centers.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "gimlet-b-20260904",
+    "company": "Gimlet Labs",
+    "domain": "gimletlabs.ai",
+    "date": "2026-09-04",
+    "stage": "Series B",
+    "amountUsd": 300000000,
+    "sector": "AI infrastructure",
+    "investors": [
+      "Andreessen Horowitz",
+      "Sapphire Ventures",
+      "M12",
+      "Arm",
+      "Menlo Ventures",
+      "Factory"
+    ],
+    "leadInvestors": [
+      "Andreessen Horowitz"
+    ],
+    "title": "Gimlet Labs announces $300M Series B for its multi-silicon inference cloud",
+    "url": "https://www.globenewswire.com/news-release/2026/09/04/3356707/0/en/now-valued-at-3-billion-gimlet-labs-raises-300-million-in-series-b-led-by-andreessen-horowitz-for-industry-s-first-multi-silicon-inference-cloud-for-agentic-ai.html",
+    "source": "Gimlet Labs via GlobeNewswire",
+    "summary": "Funding supports cloud operations and a larger team for inference across different chip architectures.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "patientiq-seriesc-2026-09-03",
+    "company": "PatientIQ",
+    "domain": "patientiq.io",
+    "date": "2026-09-03",
+    "stage": "Series C",
+    "amountUsd": 30000000,
+    "sector": "Healthtech",
+    "investors": [
+      "Hughes & Company"
+    ],
+    "leadInvestors": [
+      "Hughes & Company"
+    ],
+    "title": "PatientIQ Raises $30 Million Series C",
+    "url": "https://www.patientiq.io/news/patientiq-raises-30-million-series-c-to-power-the-next-generation-of-patient-reported-outcomes-intelligence?hs_amp=true",
+    "source": "PatientIQ",
+    "summary": "Patient outcomes platform expands into real-world evidence and patient services.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 3 company release states $30M Series C led by Hughes. Health Enterprise Partners and August Capital described as current investors, not explicitly participating, so not tagged as current round investors.",
+    "country": "United States",
+    "location": "Chicago"
+  },
+  {
+    "id": "atira-seed-2026-09-03",
+    "company": "Atira",
+    "domain": "atira.ai",
+    "date": "2026-09-03",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 15000000,
+    "sector": "Industrial AI",
+    "investors": [
+      "Accel",
+      "Ann-Kristin Achleitner",
+      "Marc Bitzer",
+      "Markus Flik",
+      "Bastian Nominacher"
+    ],
+    "leadInvestors": [
+      "Accel"
+    ],
+    "title": "Atira announces $15M seed financing",
+    "url": "https://atira.ai/news",
+    "source": "Atira",
+    "summary": "AI automates technical bidding and sales engineering for manufacturers.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "Germany",
+    "location": "Munich",
+    "sources": [
+      {
+        "url": "https://atira.ai/news",
+        "source": "Atira",
+        "verifiedBy": "opened_source",
+        "evidence": "Company says $15M seed and $17.5M combined with prior pre-seed. UVC, Fortino and booom are explicitly associated with prior pre-seed; omitted as current round funds. Accel dated post establishes year."
+      },
+      {
+        "url": "https://www.accel.com/news/our-seed-investment-in-atira-the-ai-orchestration-layer-for-industrial-sales-engineering",
+        "verifiedBy": "opened_source"
+      }
+    ]
+  },
+  {
+    "id": "wonderful-c-20260902",
+    "company": "Wonderful",
+    "domain": "wonderful.ai",
+    "date": "2026-09-02",
+    "stage": "Series C",
+    "amountUsd": 550000000,
+    "sector": "Enterprise AI",
+    "investors": [
+      "Insight Partners",
+      "Salesforce",
+      "Index Ventures",
+      "IVP",
+      "Vine Ventures",
+      "9Yards",
+      "Bessemer Venture Partners"
+    ],
+    "leadInvestors": [
+      "Insight Partners"
+    ],
+    "title": "Wonderful Raises $550 Million Series C to Scale the AI Operating System for the Enterprise",
+    "url": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c",
+    "source": "Wonderful",
+    "summary": "Enterprise workflow and agent platform expands globally following its Series C.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced"
+  },
+  {
+    "id": "lyte-seriesc-2026-09-02",
+    "company": "Lyte",
+    "domain": "lyte.ai",
+    "date": "2026-09-02",
+    "stage": "Series C",
+    "amountUsd": 165000000,
+    "sector": "Robotics",
+    "investors": [
+      "Maverick Silicon",
+      "Fidelity Management & Research Company",
+      "Atreides Management",
+      "Key1 Capital",
+      "Ora Global"
+    ],
+    "leadInvestors": [
+      "Maverick Silicon"
+    ],
+    "title": "Lyte Raises $165 Million Series C Led by Maverick Silicon",
+    "url": "https://markets.financialcontent.com/lightport.lightport8/article/bizwire-2026-9-2-lyte-raises-165-million-series-c-led-by-maverick-silicon-to-give-robots-a-trustworthy-view-of-the-world",
+    "source": "Lyte via Business Wire / FinancialContent",
+    "summary": "Custom silicon and sensors provide perception for robots.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "September 2 syndicated company release states $165M Series C led by Maverick Silicon. Final paragraph lists Fidelity, Atreides, Key1 and Ora Global (formerly Exor Ventures) as participants. $1.6B valuation and $272M cumulative funding not round size."
+  },
+  {
+    "id": "hiddenlayer-seriesb-2026-09-02",
+    "company": "HiddenLayer",
+    "domain": "hiddenlayer.com",
+    "date": "2026-09-02",
+    "stage": "Series B",
+    "amountUsd": 100000000,
+    "sector": "Cybersecurity",
+    "investors": [
+      "Delta-v Capital",
+      "Ten Eleven Ventures",
+      "Morgan Stanley",
+      "M12",
+      "Booz Allen Ventures"
+    ],
+    "leadInvestors": [
+      "Delta-v Capital"
+    ],
+    "title": "HiddenLayer Raises $100M Series B to Advance Trustworthy AI",
+    "url": "https://www.hiddenlayer.com/newsroom",
+    "source": "HiddenLayer",
+    "summary": "Security platform protects AI models and agent execution.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "evidence": "Company newsroom has September 2 Austin dateline and $100M Series B with syndicate. M12 is Microsoft's Venture Fund, not two separate investors."
+  },
+  {
+    "id": "elucid-seriesd-2026-09-02",
+    "company": "Elucid",
+    "domain": "elucid.com",
+    "date": "2026-09-02",
+    "stage": "Series D",
+    "amountUsd": 55000000,
+    "sector": "Medtech",
+    "investors": [
+      "IAG Capital Partners",
+      "Elevage Medical Technologies"
+    ],
+    "leadInvestors": [],
+    "url": "https://elucid.com/elucid-raises-55-million-series-d/",
+    "source": "Elucid",
+    "title": "Elucid announces Series D financing",
+    "summary": "Cardiovascular imaging platform raises capital for commercialization. An additional strategic medtech investor is unnamed.",
+    "location": "Boston, Massachusetts, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 55000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://elucid.com/elucid-raises-55-million-series-d/",
+        "source": "Elucid",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 55,000,000, dated 2026-09-02. Cardiovascular imaging platform raises capital for commercialization. An additional strategic medtech investor is unnamed.",
+    "amountOriginal": 55000000,
+    "currency": "USD"
+  },
+  {
+    "id": "criticalmaterialsgroup-seed-2026-09-02",
+    "company": "Critical Materials Group",
+    "domain": "critmatgroup.com",
+    "date": "2026-09-02",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 10300000,
+    "sector": "Advanced materials / defense",
+    "investors": [
+      "Overmatch Ventures",
+      "Victory Six Advisors",
+      "Fulcrum Ventures"
+    ],
+    "leadInvestors": [
+      "Overmatch Ventures"
+    ],
+    "title": "Critical Materials Group announces $10.3M seed financing",
+    "url": "https://www.vcaonline.com/news/2026090208/critical-materials-group-raises-10-3m-seed-round-to-modernize-u-s-energetics-manufacturing/",
+    "source": "Critical Materials Group announcement via VCA Online",
+    "summary": "Modular domestic production facilities for energetic materials.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Austin",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026090208/critical-materials-group-raises-10-3m-seed-round-to-modernize-u-s-energetics-manufacturing/",
+        "source": "Critical Materials Group announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 2 opening paragraph states $10.3M Seed, Overmatch lead and Victory Six/Fulcrum participation. Domain appears in company press contact."
+      }
+    ]
+  },
+  {
+    "id": "visko-pre-seed-2026-09-01",
+    "company": "Visko",
+    "domain": "visko.ai",
+    "date": "2026-09-01",
+    "stage": "Pre-seed",
+    "roundVariant": null,
+    "amountUsd": 10000000,
+    "sector": "AI models",
+    "investors": [
+      "Llama Ventures"
+    ],
+    "leadInvestors": [
+      "Llama Ventures"
+    ],
+    "title": "Visko announces $10M pre-seed financing",
+    "url": "https://www.vcaonline.com/news/2026090109/ai-startup-visko-closes-10-million-pre-seed-round-and-launches-orbis-its-first-live-model/",
+    "source": "Visko announcement via VCA Online",
+    "summary": "Interactive real-time video and world models.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "Sunnyvale",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026090109/ai-startup-visko-closes-10-million-pre-seed-round-and-launches-orbis-its-first-live-model/",
+        "source": "Visko announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 1 opening paragraph calls $10M pre-seed. About section explicitly identifies Llama Ventures as lead. Advisors are not assumed investors."
+      }
+    ]
+  },
+  {
+    "id": "scifin-seed-2026-09-01",
+    "company": "SciFin",
+    "domain": "scifin.ai",
+    "date": "2026-09-01",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": null,
+    "sector": "Enterprise AI",
+    "investors": [
+      "Altimeter",
+      "Madrona",
+      "Foundation Capital",
+      "S32",
+      "Zetta Ventures"
+    ],
+    "leadInvestors": [
+      "Altimeter",
+      "Madrona"
+    ],
+    "title": "SciFin announces seed financing",
+    "url": "https://scifin.ai/blog/scifin-emerges-from-stealth-with-44-million-in-funding-to-help-revenue-teams-see-risk-earlier-and-act-faster",
+    "source": "SciFin",
+    "summary": "Revenue intelligence platform combines fragmented customer and sales context.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "San Francisco",
+    "totalFundingUsd": 44000000,
+    "sources": [
+      {
+        "url": "https://scifin.ai/blog/scifin-emerges-from-stealth-with-44-million-in-funding-to-help-revenue-teams-see-risk-earlier-and-act-faster",
+        "source": "SciFin",
+        "verifiedBy": "opened_source",
+        "evidence": "Company original says $44M funding includes a seed round. Syndicated release calls whole amount seed, so prefer original and leave incremental seed amount unknown."
+      },
+      {
+        "url": "https://www.vcaonline.com/news/2026090104/scifin-emerges-from-stealth-with-44-million-in-seed-funding-to-help-revenue-teams-see-risk-earlier-and-act-faster/",
+        "verifiedBy": "opened_source"
+      }
+    ]
+  },
+  {
+    "id": "guickly-seed-2026-09-01",
+    "company": "Guickly",
+    "domain": "guickly.com",
+    "date": "2026-09-01",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": 4200000,
+    "sector": "Enterprise AI / cost management",
+    "investors": [
+      "Engineering Capital",
+      "Converge VC",
+      "Neon Fund"
+    ],
+    "leadInvestors": [
+      "Engineering Capital"
+    ],
+    "title": "Guickly announces $4.2M seed financing",
+    "url": "https://www.vcaonline.com/news/2026090102/ex-google-applied-ai-expert-launches-guickly-with-4-2m-in-seed-funding-to-give-enterprises-control-of-ai-investments/",
+    "source": "Guickly announcement via VCA Online",
+    "summary": "Measures enterprise AI usage, spending and return on investment.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "syndicated_company_announcement",
+    "status": "announced",
+    "country": "United States",
+    "location": "San Jose",
+    "sources": [
+      {
+        "url": "https://www.vcaonline.com/news/2026090102/ex-google-applied-ai-expert-launches-guickly-with-4-2m-in-seed-funding-to-give-enterprises-control-of-ai-investments/",
+        "source": "Guickly announcement via VCA Online",
+        "verifiedBy": "opened_source",
+        "evidence": "September 1 release states $4.2M seed led by Engineering Capital. Later paragraph names Converge and Neon. Official homepage confirms domain."
+      }
+    ]
+  },
+  {
+    "id": "owner-seriesd-2026-08-28",
+    "company": "Owner",
+    "domain": "owner.com",
+    "date": "2026-08-28",
+    "stage": "Series D",
+    "amountUsd": 240000000,
+    "sector": "Restaurant software",
+    "investors": [
+      "Growth Equity at Goldman Sachs Alternatives",
+      "Meritech",
+      "Redpoint",
+      "Headline",
+      "Jack Altman"
+    ],
+    "leadInvestors": [
+      "Growth Equity at Goldman Sachs Alternatives"
+    ],
+    "url": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html",
+    "source": "Owner via PR Newswire",
+    "title": "Owner announces Series D financing",
+    "summary": "Funding builds technology and marketing tools for local businesses. Series D stage corroborated by SiliconANGLE.",
+    "location": "San Francisco, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 240000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html",
+        "source": "Owner via PR Newswire",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      },
+      {
+        "url": "https://siliconangle.com/2026/08/28/owner-raises-240m-for-its-restaurant-management-platform/",
+        "source": "SiliconANGLE",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage"
+        ]
+      }
+    ],
+    "evidenceNotes": "Primary release confirms USD240M, current investors and 2026-08-28; opened SiliconANGLE identifies Series D explicitly.",
+    "amountOriginal": 240000000,
+    "currency": "USD"
+  },
+  {
+    "id": "keenable-seed-2026-08-25",
+    "company": "Keenable",
+    "domain": "keenable.ai",
+    "date": "2026-08-25",
+    "stage": "Seed",
+    "roundVariant": null,
+    "amountUsd": null,
+    "sector": "AI infrastructure",
+    "investors": [
+      "Accel",
+      "Conviction"
+    ],
+    "leadInvestors": [
+      "Accel"
+    ],
+    "title": "Keenable announces seed financing",
+    "url": "https://www.accel.com/news/our-seed-investment-in-keenable-search-infrastructure-for-better-ai-agents",
+    "source": "Accel",
+    "summary": "Independent web search infrastructure built for AI agents.",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "country": null,
+    "location": null,
+    "sources": [
+      {
+        "url": "https://www.accel.com/news/our-seed-investment-in-keenable-search-infrastructure-for-better-ai-agents",
+        "source": "Accel",
+        "verifiedBy": "opened_source",
+        "evidence": "August 25 investor post explicitly says Accel leading seed with Conviction. No round amount disclosed. Angels' employer names are not institutional investors."
+      }
+    ]
+  },
+  {
+    "id": "gatik-seriesd-2026-08-25",
+    "company": "Gatik",
+    "domain": "gatik.ai",
+    "date": "2026-08-25",
+    "stage": "Series D",
+    "amountUsd": 200000000,
+    "sector": "Autonomous logistics",
+    "investors": [
+      "Qatar Investment Authority",
+      "Koch Disruptive Technologies",
+      "Millennium Management",
+      "ARK Invest",
+      "Intact Private Capital"
+    ],
+    "leadInvestors": [
+      "Qatar Investment Authority",
+      "Koch Disruptive Technologies"
+    ],
+    "url": "https://archive.gatik.ai/news/coverage/gatik-raises-200-million-series-d-led-by-qia-and-kdt-as-demand-for-driverless-commercial-freight-accelerates/",
+    "source": "Gatik",
+    "title": "Gatik announces Series D financing",
+    "summary": "Funding expands driverless middle-mile commercial freight operations.",
+    "location": "Santa Clara, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 200000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://archive.gatik.ai/news/coverage/gatik-raises-200-million-series-d-led-by-qia-and-kdt-as-demand-for-driverless-commercial-freight-accelerates/",
+        "source": "Gatik",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 200,000,000, dated 2026-08-25. Funding expands driverless middle-mile commercial freight operations.",
+    "amountOriginal": 200000000,
+    "currency": "USD"
+  },
+  {
+    "id": "renatamedical-seriesd-2026-08-19",
+    "company": "Renata Medical",
+    "domain": "renatamedical.com",
+    "date": "2026-08-19",
+    "stage": "Series D",
+    "amountUsd": 25000000,
+    "sector": "Medtech",
+    "investors": [
+      "ARCHIMED"
+    ],
+    "leadInvestors": [
+      "ARCHIMED"
+    ],
+    "url": "https://www.prnewswire.com/news-releases/renata-medical-closes-25m-series-d-financing-led-by-global-healthcare-investment-firm-archimed-to-accelerate-commercialization-and-development-of-pediatric-cardiovascular-technologies-302854676.html",
+    "source": "Renata Medical via PR Newswire",
+    "title": "Renata Medical announces Series D financing",
+    "summary": "Funding supports pediatric heart technologies and stent commercialization. Existing participating investors are unnamed.",
+    "location": "Newport Beach, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 25000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/renata-medical-closes-25m-series-d-financing-led-by-global-healthcare-investment-firm-archimed-to-accelerate-commercialization-and-development-of-pediatric-cardiovascular-technologies-302854676.html",
+        "source": "Renata Medical via PR Newswire",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 25,000,000, dated 2026-08-19. Funding supports pediatric heart technologies and stent commercialization. Existing participating investors are unnamed.",
+    "amountOriginal": 25000000,
+    "currency": "USD"
+  },
+  {
+    "id": "also-seriesd-2026-08-19",
+    "company": "ALSO",
+    "domain": "ridealso.com",
+    "date": "2026-08-19",
+    "stage": "Series D",
+    "amountUsd": 150000000,
+    "sector": "Electric mobility",
+    "investors": [
+      "Prysm Capital",
+      "Eclipse Capital",
+      "Greenoaks",
+      "MVP Ventures"
+    ],
+    "leadInvestors": [
+      "Prysm Capital"
+    ],
+    "url": "https://ridealso.com/blogs/all/also-announces-150-million-series-d-financing",
+    "source": "ALSO",
+    "title": "ALSO announces Series D financing",
+    "summary": "Funding develops autonomous small electric vehicles.",
+    "location": "United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 150000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://ridealso.com/blogs/all/also-announces-150-million-series-d-financing",
+        "source": "ALSO",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 150,000,000, dated 2026-08-19. Funding develops autonomous small electric vehicles.",
+    "amountOriginal": 150000000,
+    "currency": "USD"
+  },
+  {
+    "id": "hopscotchprimarycare-seriesd-2026-08-18",
+    "company": "Hopscotch Primary Care",
+    "domain": "hellohopscotch.com",
+    "date": "2026-08-18",
+    "stage": "Series D",
+    "amountUsd": 53000000,
+    "sector": "Healthcare",
+    "investors": [
+      "8VC",
+      "Town Hall Ventures",
+      "Autism Impact Fund",
+      "John Doerr",
+      "Richard Merkin",
+      "Leon Levine Foundation",
+      "aMoon Fund",
+      "Citi Impact Fund",
+      "Alumni Ventures",
+      "K2 HealthVentures"
+    ],
+    "leadInvestors": [
+      "8VC",
+      "Town Hall Ventures"
+    ],
+    "url": "https://www.hellohopscotch.com/blog-posts/hopscotch-primary-care-raises-53-million-in-series-d-funding",
+    "source": "Hopscotch Primary Care",
+    "title": "Hopscotch Primary Care announces Series D financing",
+    "summary": "Funding expands technology-enabled rural primary care.",
+    "location": "Chicago, Illinois, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 53000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.hellohopscotch.com/blog-posts/hopscotch-primary-care-raises-53-million-in-series-d-funding",
+        "source": "Hopscotch Primary Care",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/tech-enabled-rural-health-care-leader-hopscotch-primary-care-announces-53-million-in-latest-funding-round-302854228.html?tc=eml_cleartime",
+        "source": "Hopscotch corrected press release",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "investors",
+          "announcement_date",
+          "stage",
+          "amount"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 53,000,000, dated 2026-08-18. Funding expands technology-enabled rural primary care.",
+    "amountOriginal": 53000000,
+    "currency": "USD"
+  },
+  {
+    "id": "abcuro-seriesd-2026-08-18",
+    "company": "Abcuro",
+    "domain": "abcuro.com",
+    "date": "2026-08-18",
+    "stage": "Series D",
+    "amountUsd": 66000000,
+    "sector": "Biotech",
+    "investors": [
+      "New Leaf Venture Partners",
+      "abrdn",
+      "Bain Capital Life Sciences",
+      "Samsara BioCapital",
+      "Redmile Group",
+      "Mass General Brigham Ventures",
+      "RA Capital Management",
+      "Pontifax",
+      "Sanofi Ventures",
+      "Foresite Capital",
+      "NEA",
+      "Eurofarma Ventures",
+      "Kaitai Capital",
+      "Soleus Capital",
+      "Nancy Chang",
+      "Shang Bay",
+      "Rock Springs Capital"
+    ],
+    "leadInvestors": [
+      "New Leaf Venture Partners"
+    ],
+    "url": "https://abcuro.com/uncategorized/abcuro-announces-66-million-series-d-financing-to-advance-its-first-in-class-medicine-in-development-for-inclusion-body-myositis/",
+    "source": "Abcuro",
+    "title": "Abcuro announces Series D financing",
+    "summary": "Funding supports a new clinical study for inclusion body myositis.",
+    "location": "Newton, Massachusetts, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 66000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://abcuro.com/uncategorized/abcuro-announces-66-million-series-d-financing-to-advance-its-first-in-class-medicine-in-development-for-inclusion-body-myositis/",
+        "source": "Abcuro",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 66,000,000, dated 2026-08-18. Funding supports a new clinical study for inclusion body myositis.",
+    "amountOriginal": 66000000,
+    "currency": "USD"
+  },
+  {
+    "id": "navvis-seriesd-2026-08-06",
+    "company": "NavVis",
+    "domain": "navvis.com",
+    "date": "2026-08-06",
+    "stage": "Series D",
+    "amountUsd": 85000000,
+    "sector": "Geospatial software",
+    "investors": [
+      "The Jordan Company",
+      "Yttrium",
+      "Kozo Keikaku Engineering",
+      "Cipio Partners"
+    ],
+    "leadInvestors": [
+      "The Jordan Company"
+    ],
+    "url": "https://www.navvis.com/blog/navvis-raises-usd-85m-series-d-round-to-supply-the-data-foundation-for-physical-ai?hs_amp=true",
+    "source": "NavVis",
+    "title": "NavVis announces Series D financing",
+    "summary": "Spatial data platform expands data infrastructure and AI products.",
+    "location": "Munich, Germany",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 85000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.navvis.com/blog/navvis-raises-usd-85m-series-d-round-to-supply-the-data-foundation-for-physical-ai?hs_amp=true",
+        "source": "NavVis",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 85,000,000, dated 2026-08-06. Spatial data platform expands data infrastructure and AI products.",
+    "amountOriginal": 85000000,
+    "currency": "USD"
+  },
+  {
+    "id": "lifeminetherapeutics-seriese-2026-08-06",
+    "company": "LifeMine Therapeutics",
+    "domain": "lifeminetx.com",
+    "date": "2026-08-06",
+    "stage": "Series E",
+    "amountUsd": 188000000,
+    "originalAmount": 188000000,
+    "originalCurrency": "USD",
+    "sector": "Biotech",
+    "investors": [
+      "Milky Way Investments",
+      "Bezos Expeditions",
+      "Gates Frontier",
+      "RA Capital Management",
+      "GV",
+      "LoLa Capital Partners",
+      "GSK",
+      "Invus",
+      "ARCH Venture Partners"
+    ],
+    "leadInvestors": [
+      "Milky Way Investments"
+    ],
+    "title": "LifeMine announces $188 million Series E within $263 million financing disclosure",
+    "url": "https://www.streetinsider.com/Business%2BWire/LifeMine%2BRaises%2B%24263%2BMillion%2Bto%2BAccelerate%2Bthe%2BClinical%2BDevelopment%2Bof%2BLIFE-001%2C%2Ba%2BStructurally%2Band%2BMechanistically%2BNovel%2BCalcineurin%2BActivation%2BInhibitor%2BDesigned%2Bto%2BTransform%2BOrgan%2BTransplantation/26877757.html",
+    "source": "LifeMine via Business Wire / StreetInsider",
+    "summary": "Series E advances transplant therapies. The separate previously completed $75 million Series D is excluded from this amount.",
+    "location": "Watertown, Massachusetts, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.streetinsider.com/Business%2BWire/LifeMine%2BRaises%2B%24263%2BMillion%2Bto%2BAccelerate%2Bthe%2BClinical%2BDevelopment%2Bof%2BLIFE-001%2C%2Ba%2BStructurally%2Band%2BMechanistically%2BNovel%2BCalcineurin%2BActivation%2BInhibitor%2BDesigned%2Bto%2BTransform%2BOrgan%2BTransplantation/26877757.html",
+        "source": "LifeMine via Business Wire / StreetInsider",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series E, USD 188,000,000, dated 2026-08-06. Series E advances transplant therapies. The separate previously completed $75 million Series D is excluded from this amount.",
+    "amountOriginal": 188000000,
+    "currency": "USD"
+  },
+  {
+    "id": "hadrian-seriesd-2026-08-06",
+    "company": "Hadrian",
+    "domain": "hadrian.co",
+    "date": "2026-08-06",
+    "stage": "Series D",
+    "amountUsd": 1370000000,
+    "sector": "Advanced manufacturing",
+    "investors": [
+      "WCM Investment Management",
+      "Washington Harbour Partners",
+      "Valor Equity Partners",
+      "137 Ventures",
+      "Baillie Gifford",
+      "JPMorganChase Strategic Investment Group",
+      "1789 Capital",
+      "Morgan Stanley Wealth Management",
+      "Apollo",
+      "T. Rowe Price",
+      "CapitalG",
+      "Andreessen Horowitz",
+      "Founders Fund",
+      "Lux Capital",
+      "Altimeter",
+      "Construct Capital"
+    ],
+    "leadInvestors": [
+      "WCM Investment Management",
+      "Washington Harbour Partners",
+      "Valor Equity Partners",
+      "137 Ventures",
+      "Baillie Gifford",
+      "JPMorganChase Strategic Investment Group"
+    ],
+    "url": "https://www.prnewswire.com/news-releases/hadrian-raises-1-37b-series-d-to-build-highly-automated-factories-to-accelerate-americas-industrial-renewal-302844408.html",
+    "source": "Hadrian via PR Newswire",
+    "title": "Hadrian announces Series D financing",
+    "summary": "Equity financing supports automated factories, research and production capacity.",
+    "location": "Torrance, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 1370000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/hadrian-raises-1-37b-series-d-to-build-highly-automated-factories-to-accelerate-americas-industrial-renewal-302844408.html",
+        "source": "Hadrian via PR Newswire",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 1,370,000,000, dated 2026-08-06. Equity financing supports automated factories, research and production capacity.",
+    "amountOriginal": 1370000000,
+    "currency": "USD"
+  },
+  {
+    "id": "obsidiansecurity-seriesd-2026-08-04",
+    "company": "Obsidian Security",
+    "domain": "obsidiansecurity.com",
+    "date": "2026-08-04",
+    "stage": "Series D",
+    "amountUsd": 85000000,
+    "sector": "Cybersecurity",
+    "investors": [
+      "Crescent Cove Advisors",
+      "Greylock Partners",
+      "Menlo Ventures",
+      "Norwest Venture Partners",
+      "IVP",
+      "GV",
+      "Wing Venture Capital"
+    ],
+    "leadInvestors": [
+      "Crescent Cove Advisors"
+    ],
+    "url": "https://www.obsidiansecurity.com/news/unlocking-ai-potential-securely",
+    "source": "Obsidian Security",
+    "title": "Obsidian Security announces Series D financing",
+    "summary": "Funding expands security for AI agents accessing enterprise applications.",
+    "location": "Palo Alto, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 85000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.obsidiansecurity.com/news/unlocking-ai-potential-securely",
+        "source": "Obsidian Security",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 85,000,000, dated 2026-08-04. Funding expands security for AI agents accessing enterprise applications.",
+    "amountOriginal": 85000000,
+    "currency": "USD"
+  },
+  {
+    "id": "horizon3-seriese-2026-08-03",
+    "company": "Horizon3",
+    "domain": "horizon3.ai",
+    "date": "2026-08-03",
+    "stage": "Series E",
+    "amountUsd": 250000000,
+    "sector": "Cybersecurity",
+    "investors": [
+      "NightDragon",
+      "NEA",
+      "Acrew Capital",
+      "Blue Cloud Ventures",
+      "Demeter Group",
+      "EDBI",
+      "PSG",
+      "SAIC",
+      "Sapphire Ventures",
+      "Craft Ventures",
+      "Prosperity7 Ventures",
+      "Qualcomm Ventures",
+      "Ridge Ventures",
+      "SignalFire"
+    ],
+    "leadInvestors": [
+      "NightDragon",
+      "NEA"
+    ],
+    "url": "https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/",
+    "source": "Horizon3",
+    "title": "Horizon3 announces Series E financing",
+    "summary": "Funding expands autonomous security testing and international operations.",
+    "location": "San Francisco, California, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "company_or_investor_announcement",
+    "status": "announced",
+    "originalAmount": 250000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://horizon3.ai/news/press-release/horizon3-raises-250m-series-e-at-2b-valuation-to-lead-the-ai-vs-ai-cybersecurity-era/",
+        "source": "Horizon3",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened company release dated August 3 confirms USD250M Series E co-led by NightDragon and NEA; its investor-syndicate section names seven new and five returning participants, all included.",
+    "amountOriginal": 250000000,
+    "currency": "USD"
+  },
+  {
+    "id": "basepower-seriesd-2026-08-03",
+    "company": "Base Power",
+    "domain": "basepowercompany.com",
+    "date": "2026-08-03",
+    "stage": "Series D",
+    "amountUsd": 1000000000,
+    "sector": "Energy storage",
+    "investors": [
+      "Ribbit Capital",
+      "Addition",
+      "Valor Equity Partners",
+      "JPMorganChase Strategic Investment Group"
+    ],
+    "leadInvestors": [
+      "Ribbit Capital",
+      "Addition",
+      "Valor Equity Partners",
+      "JPMorganChase Strategic Investment Group"
+    ],
+    "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-base-power-on-dollar1-billion-series-d.html",
+    "source": "Wilson Sonsini (transaction counsel)",
+    "title": "Base Power announces Series D financing",
+    "summary": "Funding scales domestic home-battery production and national expansion.",
+    "location": "Austin, Texas, United States",
+    "researchedAt": "2026-09-22",
+    "dateType": "announcement",
+    "sourceType": "transaction_adviser_announcement",
+    "status": "announced",
+    "originalAmount": 1000000000,
+    "originalCurrency": "USD",
+    "roundVariant": null,
+    "sources": [
+      {
+        "url": "https://www.wsgr.com/en/insights/wilson-sonsini-advises-base-power-on-dollar1-billion-series-d.html",
+        "source": "Wilson Sonsini (transaction counsel)",
+        "accessedAt": "2026-09-22",
+        "supports": [
+          "stage",
+          "amount",
+          "investors",
+          "announcement_date"
+        ]
+      }
+    ],
+    "evidenceNotes": "Opened source confirms Series D, USD 1,000,000,000, dated 2026-08-03. Funding scales domestic home-battery production and national expansion.",
+    "amountOriginal": 1000000000,
+    "currency": "USD"
+  }
+]

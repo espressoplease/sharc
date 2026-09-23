@@ -180,6 +180,19 @@ the password is read at login time from `HN_SCRAPER_PASSWORD`, the
 - `static/` — static assets served by `srv.arc`
 - `test.arc` — Arc test suite
 
+## Venture News dashboard
+
+This fork includes a venture funding dashboard built on Sharc. Start it with:
+
+```sh
+PORT=8082 ./sharc venture-news.arc
+```
+
+Open `http://127.0.0.1:8082/venture.html`. The page reads its records from
+`/venture-data.json`; each chart page shows twelve deals to keep dates,
+companies, and amounts legible. See [the Venture News data-layer guide](docs/venture-news.md)
+for imports, storage, and deployment.
+
 ## Development history
 
 The port was built incrementally; each step is recorded as a

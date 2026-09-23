@@ -1,0 +1,51 @@
+body { margin: 8px; background: #fff; color: #000; font-family: Verdana, Geneva, sans-serif; }
+.venture-shell { width: 85%; max-width: 1240px; min-width: 780px; background: #f6f6ef; text-align: left; }
+.venture-topbar { box-sizing: border-box; min-height: 43px; display: flex; align-items: center; gap: 8px; padding: 5px 9px; background: #d8e8db; }
+.venture-mark { width: 26px; height: 26px; display: inline-grid; place-items: center; background: #397f50; border: 1px solid #397f50; color: white; font: bold 18px Verdana, Geneva, sans-serif; text-decoration: none; }
+.venture-name { color: #000; font-size: 18px; font-weight: bold; text-decoration: none; white-space: nowrap; }
+.venture-nav { display: flex; gap: 6px; align-items: center; font-size: 11px; }
+.venture-nav a { color: #000; text-decoration: none; }
+.venture-nav a:hover { text-decoration: underline; }
+.venture-summary { display: flex; justify-content: space-between; align-items: baseline; padding: 11px 14px 8px; border-bottom: 1px solid #dfdfd7; color: #6f6f66; font-size: 12px; }
+.venture-summary div { display: flex; gap: 9px; align-items: baseline; }
+.venture-summary strong { color: #333; font-size: 13px; }
+.eyebrow { font-size: 11px; letter-spacing: .08em; font-weight: bold; color: #111; }
+.summary-amount { color: #555; font: 16px Menlo, Monaco, Consolas, monospace; }
+.venture-controls { padding: 10px 14px; display: grid; grid-template-columns: minmax(260px, 1fr) 150px 150px auto; gap: 8px; align-items: end; border-bottom: 1px solid #dfdfd7; }
+.venture-controls label { display: grid; gap: 4px; color: #777; font-size: 10px; }
+.venture-controls input, .venture-controls select, .venture-controls button, .chart-pager button { box-sizing: border-box; height: 28px; border: 1px solid #cfc9bd; border-radius: 0; background: #fffdfa; color: #333; padding: 4px 7px; font: 12px Verdana, Geneva, sans-serif; }
+.venture-controls button { cursor: pointer; }
+.venture-board { padding: 12px 14px 9px; }
+.board-heading { display: flex; justify-content: space-between; align-items: start; }
+.board-heading h1 { margin: 0; font-size: 18px; }
+.board-heading p { margin: 4px 0 0; color: #8a8175; font-size: 11px; }
+.scale-note { color: #8a8175; font: 11px Menlo, Monaco, Consolas, monospace; }
+.stage-tabs { display: flex; gap: 4px; margin: 12px 0 8px; flex-wrap: wrap; }
+.stage-tabs button { border: 1px solid transparent; background: transparent; padding: 5px 8px; color: #7e7061; cursor: pointer; font: 12px Menlo, Monaco, Consolas, monospace; }
+.stage-tabs button.active { background: #e2f0e5; border-color: #bad7c0; color: #355d3e; }
+.chart-pager { display: flex; justify-content: center; align-items: center; gap: 9px; margin: 3px 0 9px; }
+.chart-pager button { height: 25px; cursor: pointer; font-size: 11px; }
+.chart-pager button:disabled { cursor: default; opacity: .45; }
+.chart-pager strong { min-width: 168px; color: #675f55; text-align: center; font: 11px Menlo, Monaco, Consolas, monospace; }
+.venture-chart { height: 310px; display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 8px; align-items: stretch; padding: 0 4px; border-bottom: 1px solid #d7cdbc; background: repeating-linear-gradient(to top, transparent 0, transparent 76px, #e8dfd2 77px, transparent 78px); }
+.deal-column { min-width: 0; height: 100%; display: grid; grid-template-rows: 1fr auto; padding: 0; border: 0; background: transparent; cursor: pointer; text-align: center; color: #4d473f; }
+.deal-column.selected .deal-bar { background: #397f50; }
+.deal-column:hover .deal-bar { background: #6c9e78; }
+.bar-wrap { min-height: 0; display: flex; align-items: end; justify-content: center; }
+.deal-bar { width: 28px; min-height: 6px; position: relative; background: #9d8b77; }
+.deal-initials { width: 28px; height: 28px; position: absolute; left: 0; top: -31px; display: grid; place-items: center; overflow: hidden; border: 1px solid #d5c8b6; background: #fffdfa; color: #3c392f; font: bold 9px Verdana, Geneva, sans-serif; }
+.deal-label { min-height: 54px; padding-top: 7px; overflow: hidden; font: 10px Menlo, Monaco, Consolas, monospace; line-height: 14px; }
+.deal-label time, .deal-label span { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.deal-label time { color: #8d8174; }
+.deal-label .amount-label { color: #4f4b44; }
+.chart-caption { min-height: 18px; margin: 8px 0 0; color: #93887c; font-size: 11px; }
+.venture-detail { margin: 0 14px 14px; min-height: 86px; border: 1px solid #dfd5c7; background: #fffdfa; padding: 10px 12px; }
+.empty-detail { color: #918576; font-size: 12px; }
+.detail-head { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+.detail-head h2 { margin: 0; font-size: 16px; }
+.detail-head strong { color: #397f50; font: 15px Menlo, Monaco, Consolas, monospace; }
+.detail-meta, .detail-investors, .detail-source { margin: 7px 0 0; color: #6e6256; font-size: 11px; line-height: 1.5; }
+.detail-source a { color: #67523d; }
+.venture-data-model { padding: 10px 14px 16px; border-top: 1px solid #dfdfd7; color: #777; font-size: 11px; line-height: 1.5; }
+.venture-data-model strong { color: #4b4b45; }
+@media (max-width: 850px) { .venture-shell { width: 100%; min-width: 0; } .venture-controls { grid-template-columns: 1fr 1fr; } .venture-controls label:first-child { grid-column: 1 / -1; } .venture-chart { gap: 3px; } .deal-bar, .deal-initials { width: 21px; } .venture-nav { display: none; } }

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Venture News</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="news.css">
+    <link rel="stylesheet" href="venture.css">
+  </head>
+  <body>
+    <center>
+      <main id="hnmain" class="venture-shell">
+        <header class="venture-topbar">
+          <a class="venture-mark" href="venture.html" aria-label="Venture News home">V</a>
+          <a class="venture-name" href="venture.html">Venture News</a>
+          <nav class="venture-nav" aria-label="Primary navigation">
+            <a href="venture.html">funding rounds</a>
+            <span>|</span>
+            <a href="#data-model">data model</a>
+            <span>|</span>
+            <a href="venture-data.json">export JSON</a>
+          </nav>
+        </header>
+
+        <section class="venture-summary" aria-label="Funding summary">
+          <div>
+            <span class="eyebrow">VENTURE ROUNDS</span>
+            <strong id="summaryCount">Loading records</strong>
+            <span id="summaryRange"></span>
+          </div>
+          <span id="summaryAmount" class="summary-amount"></span>
+        </section>
+
+        <section class="venture-controls" aria-label="Filter funding rounds">
+          <label>
+            <span>Find a company or fund</span>
+            <input id="query" type="search" placeholder="e.g. Mistral, Accel" autocomplete="off">
+          </label>
+          <label>
+            <span>Stage</span>
+            <select id="stage"><option value="">All stages</option></select>
+          </label>
+          <label>
+            <span>Sector</span>
+            <select id="sector"><option value="">All sectors</option></select>
+          </label>
+          <button id="reset" type="button">reset</button>
+        </section>
+
+        <section class="venture-board" aria-labelledby="chart-title">
+          <div class="board-heading">
+            <div>
+              <h1 id="chart-title">Funding landscape</h1>
+              <p>One readable window at a time. Select a company to inspect the reported round.</p>
+            </div>
+            <span class="scale-note">LOG SCALE · USD</span>
+          </div>
+          <div class="stage-tabs" id="stageTabs" aria-label="Quick stage filters"></div>
+          <div class="chart-pager">
+            <button id="newer" type="button">‹ newer</button>
+            <strong id="pageStatus"></strong>
+            <button id="older" type="button">older ›</button>
+          </div>
+          <div id="chart" class="venture-chart" role="list" aria-label="Funding rounds chart"></div>
+          <p id="chartCaption" class="chart-caption"></p>
+        </section>
+
+        <section id="detail" class="venture-detail" aria-live="polite">
+          <p class="empty-detail">Select a marker to see the company, reported amount, investors, and source.</p>
+        </section>
+
+        <section id="data-model" class="venture-data-model">
+          <strong>Stored as deal records.</strong>
+          Each record carries a stage, company, amount, date, sector, investors, source URL, and research metadata. The public dashboard reads JSON from this Sharc instance.
+        </section>
+      </main>
+    </center>
+    <script src="venture.js"></script>
+  </body>
+</html>
