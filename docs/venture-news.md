@@ -20,4 +20,4 @@ The importer validates required fields, de-duplicates by `id`, and uses an atomi
 
 Run the app with `PORT=8082 ./sharc venture-news.arc`. On the production host, retain `arc/venture/deals.json` outside the deployment checkout or use the existing `ARC_DATA_DIR` setting. Deploying source code with `git pull` never overwrites that runtime directory. Back it up with the rest of the Sharc `arc/` data.
 
-The first release intentionally has no public write route. Import runs from an authenticated shell or deployment job, while `/venture-data.json` is public and read-only. A future importer can cache favicons into `static/venture-icons/` and add each local icon path to its record, avoiding third-party requests from the dashboard.
+The first release intentionally has no public write route. Import runs from an authenticated shell or deployment job, while `/venture-data.json` is public and read-only. `node scripts/venture-fetch-icons.mjs` caches company favicons as flat `static/venture-icon-*.jpg` files and records each local path, avoiding third-party requests from the dashboard.

@@ -29,7 +29,8 @@
     "originalCurrency": "GBP",
     "country": "United Kingdom",
     "amountOriginal": 7700000,
-    "currency": "GBP"
+    "currency": "GBP",
+    "iconPath": "venture-icon-sprive-seriesa-2026-09-21.jpg"
   },
   {
     "id": "rainmaker-seriesb-2026-09-21",
@@ -55,7 +56,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Company September 21 post confirms $100M Series B and five named participants; no lead identified."
+    "evidence": "Company September 21 post confirms $100M Series B and five named participants; no lead identified.",
+    "iconPath": "venture-icon-rainmaker-seriesb-2026-09-21.jpg"
   },
   {
     "id": "fluxnium-seed-2026-09-21",
@@ -91,7 +93,8 @@
         "verifiedBy": "opened_source",
         "evidence": "Company release dated September 21 explicitly announces $7M seed and the three named funds. Earlier September 16 press coverage exists; date here is formal company announcement."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-fluxnium-seed-2026-09-21.jpg"
   },
   {
     "id": "corridor-seed-2026-09-21",
@@ -132,7 +135,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 21 announcement; BoxGroup participated."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-corridor-seed-2026-09-21.jpg"
   },
   {
     "id": "amberelectric-seriese-2026-09-21",
@@ -188,7 +192,8 @@
     ],
     "evidenceNotes": "Funding expands home battery and EV automation. Investor reports EUR49 million; company reports $78.5 million in Australian context, which is not treated as USD.",
     "amountOriginal": 49000000,
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-amberelectric-seriese-2026-09-21.jpg"
   },
   {
     "id": "dtcpay-seriesa-2026-09-18-extensionfinalclose",
@@ -227,7 +232,8 @@
     "roundLeadInvestors": [
       "Vertex Ventures Southeast Asia & India"
     ],
-    "investorRoleScope": "investors contains explicitly new or increased commitments in final-close announcement; roundInvestors includes entire Series A; Genedant tranche unspecified; Vertex led initial tranche only"
+    "investorRoleScope": "investors contains explicitly new or increased commitments in final-close announcement; roundInvestors includes entire Series A; Genedant tranche unspecified; Vertex led initial tranche only",
+    "iconPath": "venture-icon-dtcpay-seriesa-2026-09-18-extensionfinalclose.jpg"
   },
   {
     "id": "mantic-seed-2026-09-18",
@@ -268,7 +274,8 @@
         "url": "https://www.mantic.com/",
         "verifiedBy": "opened_source"
       }
-    ]
+    ],
+    "iconPath": "venture-icon-mantic-seed-2026-09-18.jpg"
   },
   {
     "id": "cora-seed-2026-09-18",
@@ -298,7 +305,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 18 company announcement confirms Seed closed but discloses neither amount nor investors. No invented fund tags."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-cora-seed-2026-09-18.jpg"
   },
   {
     "id": "arcos-seed-2026-09-18",
@@ -336,7 +344,8 @@
         "evidence": "September 18 investor release explicitly states EUR5.5M seed and five named investors, without specifying lead. HTGF LPs KfW/federal ministry excluded. Read official Markdown alternate via curl."
       }
     ],
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-arcos-seed-2026-09-18.jpg"
   },
   {
     "id": "angle-c-20260918",
@@ -364,7 +373,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced_pending_close"
+    "status": "announced_pending_close",
+    "iconPath": "venture-icon-angle-c-20260918.jpg"
   },
   {
     "id": "syte-seriesa-2026-09-17",
@@ -399,7 +409,8 @@
     "country": "Germany",
     "location": "Münster",
     "amountOriginal": 9000000,
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-syte-seriesa-2026-09-17.jpg"
   },
   {
     "id": "viabot-seriesa-2026-09-17",
@@ -429,7 +440,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 17 Santa Clara dateline states $24M Series A and all seven investors; $43M is cumulative."
+    "evidence": "September 17 Santa Clara dateline states $24M Series A and all seven investors; $43M is cumulative.",
+    "iconPath": "venture-icon-viabot-seriesa-2026-09-17.jpg"
   },
   {
     "id": "trebletechnologies-seriesa-2026-09-17-seriesa-2",
@@ -464,7 +476,8 @@
     "country": "Iceland",
     "location": "Reykjavík",
     "amountOriginal": 15000000,
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-trebletechnologies-seriesa-2026-09-17-seriesa-2.jpg"
   },
   {
     "id": "tigerbytecyber-seed-2026-09-17",
@@ -503,7 +516,8 @@
         "url": "https://tigerbytecyber.us/",
         "verifiedBy": "opened_source"
       }
-    ]
+    ],
+    "iconPath": "venture-icon-tigerbytecyber-seed-2026-09-17.jpg"
   },
   {
     "id": "ravel-seed-2026-09-17",
@@ -543,7 +557,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 17 release states $8.2M Seed; One Small Planet leads, AP significant participant. Existing investors explicitly follow on; At One was prior pre-seed lead only."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-ravel-seed-2026-09-17.jpg"
   },
   {
     "id": "raindrop-a-20260917",
@@ -568,7 +583,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-raindrop-a-20260917.jpg"
   },
   {
     "id": "mazamaenergy-seriesb-2026-09-17",
@@ -604,7 +620,8 @@
     "evidence": "September 17 company release describes $135M in new capital including Series B, without equity-only breakdown. Opened Axios Pro Rata on September 17 identifies grants within the total: https://www.axios.com/newsletters/axios-pro-rata-481aa6e7-8911-44ba-9bba-db005c9ea2f0 . Equity amount left null.",
     "combinedCapitalUsd": 135000000,
     "country": "United States",
-    "location": "Dallas"
+    "location": "Dallas",
+    "iconPath": "venture-icon-mazamaenergy-seriesb-2026-09-17.jpg"
   },
   {
     "id": "magentic-seriesa-2026-09-17",
@@ -630,7 +647,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "London September 17 dateline states $18M Series A led by Felicis with existing Sequoia and Westly."
+    "evidence": "London September 17 dateline states $18M Series A led by Felicis with existing Sequoia and Westly.",
+    "iconPath": "venture-icon-magentic-seriesa-2026-09-17.jpg"
   },
   {
     "id": "mind-b-20260917",
@@ -655,7 +673,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-mind-b-20260917.jpg"
   },
   {
     "id": "luzernrisk-seriesb-2026-09-17",
@@ -681,7 +700,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Company newsroom dated September 17 expressly identifies amount, stage, lead and participants. Syndicated release: https://markets.financialcontent.com/dowtheoryletters/article/bizwire-2026-9-17-luzern-risk-raises-45m-series-b-led-by-insight-partners"
+    "evidence": "Company newsroom dated September 17 expressly identifies amount, stage, lead and participants. Syndicated release: https://markets.financialcontent.com/dowtheoryletters/article/bizwire-2026-9-17-luzern-risk-raises-45m-series-b-led-by-insight-partners",
+    "iconPath": "venture-icon-luzernrisk-seriesb-2026-09-17.jpg"
   },
   {
     "id": "fizemedical-seriesb-2026-09-17-firstclose",
@@ -709,7 +729,8 @@
     "status": "first_close",
     "evidence": "September 17 company release says first close making progress toward $20M target, not completed $20M raise. Closed amount undisclosed; target stored separately.",
     "roundVariant": "first close",
-    "targetAmountUsd": 20000000
+    "targetAmountUsd": 20000000,
+    "iconPath": "venture-icon-fizemedical-seriesb-2026-09-17-firstclose.jpg"
   },
   {
     "id": "crusoe-seriesf-2026-09-17",
@@ -792,7 +813,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series F, USD 3,900,000,000, dated 2026-09-17. Initial closing of anticipated $3.9 billion round supports energy-to-cloud infrastructure. Full anticipated round amount is not the disclosed amount closed.",
     "amountOriginal": 3900000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-crusoe-seriesf-2026-09-17.jpg"
   },
   {
     "id": "adaptive-seriesb-2026-09-17",
@@ -821,7 +843,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 17 release states $30M Series B, Tidemark sole named lead. Aggregator incorrectly implies a16z co-led. $57M is cumulative."
+    "evidence": "September 17 release states $30M Series B, Tidemark sole named lead. Aggregator incorrectly implies a16z co-led. $57M is cumulative.",
+    "iconPath": "venture-icon-adaptive-seriesb-2026-09-17.jpg"
   },
   {
     "id": "veridion-seriesa-2026-09-16",
@@ -851,7 +874,8 @@
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
     "evidence": "Company release has explicit September 16 dateline, $20M Series A and current six investors. CB Insights assigns apparently same financing to February 6; retain company announcement date but flag possible prior close/reannouncement.",
-    "dateCaveat": "Company announcement is September 16; aggregator CB Insights assigns same amount and syndicate to February 6, 2026. Actual close date not verified."
+    "dateCaveat": "Company announcement is September 16; aggregator CB Insights assigns same amount and syndicate to February 6, 2026. Actual close date not verified.",
+    "iconPath": "venture-icon-veridion-seriesa-2026-09-16.jpg"
   },
   {
     "id": "slingtherapeutics-seriesc-2026-09-16",
@@ -877,7 +901,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 16 Ann Arbor dateline states closed $123M Series C led by Forbion, existing TPG and new Sectoral."
+    "evidence": "September 16 Ann Arbor dateline states closed $123M Series C led by Forbion, existing TPG and new Sectoral.",
+    "iconPath": "venture-icon-slingtherapeutics-seriesc-2026-09-16.jpg"
   },
   {
     "id": "ridgeline-seriese-2026-09-16",
@@ -923,7 +948,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series E, USD 250,000,000, dated 2026-09-16. Investment management platform funding includes founder, customers and individuals.",
     "amountOriginal": 250000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-ridgeline-seriese-2026-09-16.jpg"
   },
   {
     "id": "noetive-seed-2026-09-16",
@@ -975,7 +1001,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 16 company opening paragraph explicitly states $41M seed led by Eclipse; remainder names current round angels."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-noetive-seed-2026-09-16.jpg"
   },
   {
     "id": "integral-seriesa-2026-09-16",
@@ -1010,7 +1037,8 @@
     "country": "Germany",
     "location": "Berlin",
     "amountOriginal": 18000000,
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-integral-seriesa-2026-09-16.jpg"
   },
   {
     "id": "impulsespace-seriesd-2026-09-16-extension",
@@ -1056,7 +1084,8 @@
     ],
     "evidenceNotes": "Extension funds in-space mobility. $308 million is incremental; combined Series D totals $808 million. No extension lead named.",
     "amountOriginal": 308000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-impulsespace-seriesd-2026-09-16-extension.jpg"
   },
   {
     "id": "footprint-seriesb-2026-09-16",
@@ -1089,7 +1118,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Opened original and AOL-syndicated September 16 company release confirms $25M Series B, investors and onefootprint.com domain."
+    "evidence": "Opened original and AOL-syndicated September 16 company release confirms $25M Series B, investors and onefootprint.com domain.",
+    "iconPath": "venture-icon-footprint-seriesb-2026-09-16.jpg"
   },
   {
     "id": "circlepharma-seriese-2026-09-16",
@@ -1136,7 +1166,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series E, USD 92,500,000, dated 2026-09-16. Funding advances targeted cancer macrocycle therapies.",
     "amountOriginal": 92500000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-circlepharma-seriese-2026-09-16.jpg"
   },
   {
     "id": "caddi-seriesd-2026-09-16",
@@ -1184,7 +1215,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 114,000,000, dated 2026-09-16. Definitive agreements for manufacturing data platform funding, with North America expansion planned.",
     "amountOriginal": 114000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-caddi-seriesd-2026-09-16.jpg"
   },
   {
     "id": "ayblehealth-seriesa-2026-09-16",
@@ -1214,7 +1246,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Corrected September 17 release explicitly says original issued September 16; body dateline retains September 16. $16M closed Series A, Neon lead; $27M+ is cumulative."
+    "evidence": "Corrected September 17 release explicitly says original issued September 16; body dateline retains September 16. $16M closed Series A, Neon lead; $27M+ is cumulative.",
+    "iconPath": "venture-icon-ayblehealth-seriesa-2026-09-16.jpg"
   },
   {
     "id": "arcee-b-20260916",
@@ -1247,7 +1280,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-arcee-b-20260916.jpg"
   },
   {
     "id": "typesafe-seed-20260915",
@@ -1270,7 +1304,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-typesafe-seed-20260915.jpg"
   },
   {
     "id": "thatch-seriesc-2026-09-15",
@@ -1304,7 +1339,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Company September 15 post confirms amount, Series C and five funds plus Lilly and Paychex. Opened company counsel announcement September 16 explicitly identifies five funds as round leads: https://www.lw.com/en/news/2026/09/latham-advises-thatch-on-series-c ."
+    "evidence": "Company September 15 post confirms amount, Series C and five funds plus Lilly and Paychex. Opened company counsel announcement September 16 explicitly identifies five funds as round leads: https://www.lw.com/en/news/2026/09/latham-advises-thatch-on-series-c .",
+    "iconPath": "venture-icon-thatch-seriesc-2026-09-15.jpg"
   },
   {
     "id": "scaffold-seed-20260915",
@@ -1335,7 +1371,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-scaffold-seed-20260915.jpg"
   },
   {
     "id": "profound-seriesd-2026-09-15",
@@ -1385,7 +1422,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 180,000,000, dated 2026-09-15. Funding expands marketing agents and applied AI research.",
     "amountOriginal": 180000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-profound-seriesd-2026-09-15.jpg"
   },
   {
     "id": "liquidcompute-seed-2026-09-15",
@@ -1427,7 +1465,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 15 opening paragraph specifies $15M seed and named participants. YC is historical accelerator affiliation; trading partners excluded from investor tags."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-liquidcompute-seed-2026-09-15.jpg"
   },
   {
     "id": "isometric-seriesa-2026-09-15-extension",
@@ -1460,7 +1499,8 @@
     "status": "announced",
     "evidence": "September 15 company announcement states Series A initially announced June now totals $50M; total lifetime $75M. New close amount not explicitly stated, so null. June post announced $40M; a $10M increment is inferable but not stored as reported. Investors listed are named in this September announcement.",
     "roundVariant": "extension",
-    "roundTotalUsd": 50000000
+    "roundTotalUsd": 50000000,
+    "iconPath": "venture-icon-isometric-seriesa-2026-09-15-extension.jpg"
   },
   {
     "id": "g5labs-seed-2026-09-15",
@@ -1499,7 +1539,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 15 company release states $14M seed, two co-leads, two other funds and Jeff Dean."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-g5labs-seed-2026-09-15.jpg"
   },
   {
     "id": "fincom-seed-2026-09-15",
@@ -1539,7 +1580,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 15 release paragraph 10 explicitly calls $20M seed led by Expa and Garrett Camp. Unnamed Figure founders and family offices omitted. Advisory board members not automatically investors."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-fincom-seed-2026-09-15.jpg"
   },
   {
     "id": "decimalai-seed-2026-09-15",
@@ -1584,7 +1626,8 @@
         "url": "https://www.decimal.app/blog/decimal-seed-customer-engineering",
         "verifiedBy": "opened_source"
       }
-    ]
+    ],
+    "iconPath": "venture-icon-decimalai-seed-2026-09-15.jpg"
   },
   {
     "id": "branchenergy-seriesb-2026-09-15",
@@ -1615,7 +1658,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 15 Houston release states $33M Series B and complete syndicate."
+    "evidence": "September 15 Houston release states $33M Series B and complete syndicate.",
+    "iconPath": "venture-icon-branchenergy-seriesb-2026-09-15.jpg"
   },
   {
     "id": "aitiologic-seed-2026-09-15",
@@ -1657,7 +1701,8 @@
         "evidence": "September 15 release states EUR6.4M seed, approximately USD7.4M, with both co-leads. PUSH and LANA continue in this round. Grants and EIF support not equity investors."
       }
     ],
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-aitiologic-seed-2026-09-15.jpg"
   },
   {
     "id": "temporal-seriese-2026-09-14",
@@ -1714,7 +1759,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series E, USD 550,000,000, dated 2026-09-14. Funding supports durable workflow execution infrastructure and global operations.",
     "amountOriginal": 550000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-temporal-seriese-2026-09-14.jpg"
   },
   {
     "id": "nuance-a-20260914",
@@ -1741,7 +1787,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-nuance-a-20260914.jpg"
   },
   {
     "id": "boomeranghr-seed-2026-09-14",
@@ -1780,7 +1827,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 14 release body specifies $12.7M seed and two leads, despite rounded $12M+ title. September 15 roundup publication is not announcement date."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-boomeranghr-seed-2026-09-14.jpg"
   },
   {
     "id": "a5x-seriesd-2026-09-14",
@@ -1832,7 +1880,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, BRL 360,000,000, dated 2026-09-14. Funding supports a Brazilian derivatives exchange and clearing house. XP exercised a call option in parallel and is excluded from round investors. Primary source reports BRL only.",
     "amountOriginal": 360000000,
-    "currency": "BRL"
+    "currency": "BRL",
+    "iconPath": "venture-icon-a5x-seriesd-2026-09-14.jpg"
   },
   {
     "id": "fortaegis-seriesa-2026-09-13",
@@ -1863,7 +1912,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 13 Amsterdam dateline, $50M Series A. Investor group section lists all participants and identifies returning Serendipity as lead."
+    "evidence": "September 13 Amsterdam dateline, $50M Series A. Investor group section lists all participants and identifies returning Serendipity as lead.",
+    "iconPath": "venture-icon-fortaegis-seriesa-2026-09-13.jpg"
   },
   {
     "id": "archy-seriesc-2026-09-11",
@@ -1892,7 +1942,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Company post September 11 confirms $50M Series C with full syndicate. Counsel's September 14 article corroborates but is not announcement date."
+    "evidence": "Company post September 11 confirms $50M Series C with full syndicate. Counsel's September 14 article corroborates but is not announcement date.",
+    "iconPath": "venture-icon-archy-seriesc-2026-09-11.jpg"
   },
   {
     "id": "inspiren-seriesc-2026-09-10",
@@ -1924,7 +1975,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 10 company release explicitly names $70M Series C and full current syndicate. $225M is cumulative, not round size."
+    "evidence": "September 10 company release explicitly names $70M Series C and full current syndicate. $225M is cumulative, not round size.",
+    "iconPath": "venture-icon-inspiren-seriesc-2026-09-10.jpg"
   },
   {
     "id": "solsticeoncology-seriesa-2026-09-09",
@@ -1950,7 +2002,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Company September 9 Boston release states $225M Series A financing led by RA Capital and joined by Canaan, Forbion and unnamed others."
+    "evidence": "Company September 9 Boston release states $225M Series A financing led by RA Capital and joined by Canaan, Forbion and unnamed others.",
+    "iconPath": "venture-icon-solsticeoncology-seriesa-2026-09-09.jpg"
   },
   {
     "id": "savvywealth-seriesc-2026-09-09",
@@ -1983,7 +2036,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Company post dated September 9 states $100M Series C at $600M valuation, led by Halo Fund; remaining named firms are explicitly doubling down."
+    "evidence": "Company post dated September 9 states $100M Series C at $600M valuation, led by Halo Fund; remaining named firms are explicitly doubling down.",
+    "iconPath": "venture-icon-savvywealth-seriesc-2026-09-09.jpg"
   },
   {
     "id": "rebaba-seed-2026-09-09",
@@ -2025,7 +2079,8 @@
         "verifiedBy": "opened_source"
       }
     ],
-    "currency": "SEK"
+    "currency": "SEK",
+    "iconPath": "venture-icon-rebaba-seed-2026-09-09.jpg"
   },
   {
     "id": "navionneurosciences-seed-2026-09-09-firstclose",
@@ -2092,7 +2147,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-lightfield-a-20260909.jpg"
   },
   {
     "id": "latitude-a-20260909",
@@ -2120,7 +2176,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-latitude-a-20260909.jpg"
   },
   {
     "id": "euno-seriesa-2026-09-09",
@@ -2151,7 +2208,8 @@
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
     "evidence": "September 9 company release specifies $23M Series A and named participants. Individual founders are investors personally, not Wiz, Cyera, Eon, Tavily or Tableau corporate investors. $29M is total funding.",
-    "location": "San Francisco and Tel Aviv"
+    "location": "San Francisco and Tel Aviv",
+    "iconPath": "venture-icon-euno-seriesa-2026-09-09.jpg"
   },
   {
     "id": "stokespace-seriese-2026-09-08",
@@ -2202,7 +2260,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series E, USD 1,000,000,000, dated 2026-09-08. Initial closing of billion-dollar round supports reusable Nova launch vehicles. The announcement does not quantify the amount already closed.",
     "amountOriginal": 1000000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-stokespace-seriese-2026-09-08.jpg"
   },
   {
     "id": "moonwalkbiosciences-seriesb-2026-09-08",
@@ -2233,7 +2292,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 8 syndicated company release says closed $70M Series B and current syndicate. Aggregator mislabels Alpha Wave as Wave Ventures; retain primary name."
+    "evidence": "September 8 syndicated company release says closed $70M Series B and current syndicate. Aggregator mislabels Alpha Wave as Wave Ventures; retain primary name.",
+    "iconPath": "venture-icon-moonwalkbiosciences-seriesb-2026-09-08.jpg"
   },
   {
     "id": "mistralai-seriesd-2026-09-08",
@@ -2308,7 +2368,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, EUR 3,000,000,000, dated 2026-09-08. EUR 3 billion funds AI research, computing capacity and international expansion. USD amount deliberately not converted.",
     "amountOriginal": 3000000000,
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-mistralai-seriesd-2026-09-08.jpg"
   },
   {
     "id": "herdr-seed-2026-09-08",
@@ -2347,7 +2408,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 8 founder post explicitly announces $6M seed and every listed investor. Some databases use September 10; company publication wins. Company geography not established by this source."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-herdr-seed-2026-09-08.jpg"
   },
   {
     "id": "genhealthai-seriesa-2026-09-08",
@@ -2379,7 +2441,8 @@
     "status": "announced",
     "evidence": "September 8 Boston company release states amount, Series A and current seven investors. $30M is cumulative.",
     "country": "United States",
-    "location": "Boston"
+    "location": "Boston",
+    "iconPath": "venture-icon-genhealthai-seriesa-2026-09-08.jpg"
   },
   {
     "id": "frytemobility-seed-2026-09-08",
@@ -2420,7 +2483,8 @@
         "evidence": "Investor release posted September 9 contains Munich September 8 announcement dateline. EUR3.5M Seed, not EUR5M total. Co-leads and follow-on participants explicit."
       }
     ],
-    "currency": "EUR"
+    "currency": "EUR",
+    "iconPath": "venture-icon-frytemobility-seed-2026-09-08.jpg"
   },
   {
     "id": "cloverleaf-seed-20260908",
@@ -2449,7 +2513,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-cloverleaf-seed-20260908.jpg"
   },
   {
     "id": "celero-c-20260908",
@@ -2478,7 +2543,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-celero-c-20260908.jpg"
   },
   {
     "id": "gimlet-b-20260904",
@@ -2506,7 +2572,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-gimlet-b-20260904.jpg"
   },
   {
     "id": "patientiq-seriesc-2026-09-03",
@@ -2532,7 +2599,8 @@
     "status": "announced",
     "evidence": "September 3 company release states $30M Series C led by Hughes. Health Enterprise Partners and August Capital described as current investors, not explicitly participating, so not tagged as current round investors.",
     "country": "United States",
-    "location": "Chicago"
+    "location": "Chicago",
+    "iconPath": "venture-icon-patientiq-seriesc-2026-09-03.jpg"
   },
   {
     "id": "atira-seed-2026-09-03",
@@ -2574,7 +2642,8 @@
         "url": "https://www.accel.com/news/our-seed-investment-in-atira-the-ai-orchestration-layer-for-industrial-sales-engineering",
         "verifiedBy": "opened_source"
       }
-    ]
+    ],
+    "iconPath": "venture-icon-atira-seed-2026-09-03.jpg"
   },
   {
     "id": "wonderful-c-20260902",
@@ -2603,7 +2672,8 @@
     "researchedAt": "2026-09-22",
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
-    "status": "announced"
+    "status": "announced",
+    "iconPath": "venture-icon-wonderful-c-20260902.jpg"
   },
   {
     "id": "lyte-seriesc-2026-09-02",
@@ -2631,7 +2701,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "September 2 syndicated company release states $165M Series C led by Maverick Silicon. Final paragraph lists Fidelity, Atreides, Key1 and Ora Global (formerly Exor Ventures) as participants. $1.6B valuation and $272M cumulative funding not round size."
+    "evidence": "September 2 syndicated company release states $165M Series C led by Maverick Silicon. Final paragraph lists Fidelity, Atreides, Key1 and Ora Global (formerly Exor Ventures) as participants. $1.6B valuation and $272M cumulative funding not round size.",
+    "iconPath": "venture-icon-lyte-seriesc-2026-09-02.jpg"
   },
   {
     "id": "hiddenlayer-seriesb-2026-09-02",
@@ -2659,7 +2730,8 @@
     "dateType": "announcement",
     "sourceType": "company_or_investor_announcement",
     "status": "announced",
-    "evidence": "Company newsroom has September 2 Austin dateline and $100M Series B with syndicate. M12 is Microsoft's Venture Fund, not two separate investors."
+    "evidence": "Company newsroom has September 2 Austin dateline and $100M Series B with syndicate. M12 is Microsoft's Venture Fund, not two separate investors.",
+    "iconPath": "venture-icon-hiddenlayer-seriesb-2026-09-02.jpg"
   },
   {
     "id": "elucid-seriesd-2026-09-02",
@@ -2701,7 +2773,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 55,000,000, dated 2026-09-02. Cardiovascular imaging platform raises capital for commercialization. An additional strategic medtech investor is unnamed.",
     "amountOriginal": 55000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-elucid-seriesd-2026-09-02.jpg"
   },
   {
     "id": "criticalmaterialsgroup-seed-2026-09-02",
@@ -2737,7 +2810,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 2 opening paragraph states $10.3M Seed, Overmatch lead and Victory Six/Fulcrum participation. Domain appears in company press contact."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-criticalmaterialsgroup-seed-2026-09-02.jpg"
   },
   {
     "id": "visko-pre-seed-2026-09-01",
@@ -2771,7 +2845,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 1 opening paragraph calls $10M pre-seed. About section explicitly identifies Llama Ventures as lead. Advisors are not assumed investors."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-visko-pre-seed-2026-09-01.jpg"
   },
   {
     "id": "scifin-seed-2026-09-01",
@@ -2815,7 +2890,8 @@
         "url": "https://www.vcaonline.com/news/2026090104/scifin-emerges-from-stealth-with-44-million-in-seed-funding-to-help-revenue-teams-see-risk-earlier-and-act-faster/",
         "verifiedBy": "opened_source"
       }
-    ]
+    ],
+    "iconPath": "venture-icon-scifin-seed-2026-09-01.jpg"
   },
   {
     "id": "guickly-seed-2026-09-01",
@@ -2851,7 +2927,8 @@
         "verifiedBy": "opened_source",
         "evidence": "September 1 release states $4.2M seed led by Engineering Capital. Later paragraph names Converge and Neon. Official homepage confirms domain."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-guickly-seed-2026-09-01.jpg"
   },
   {
     "id": "owner-seriesd-2026-08-28",
@@ -2905,7 +2982,8 @@
     ],
     "evidenceNotes": "Primary release confirms USD240M, current investors and 2026-08-28; opened SiliconANGLE identifies Series D explicitly.",
     "amountOriginal": 240000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-owner-seriesd-2026-08-28.jpg"
   },
   {
     "id": "keenable-seed-2026-08-25",
@@ -2940,7 +3018,8 @@
         "verifiedBy": "opened_source",
         "evidence": "August 25 investor post explicitly says Accel leading seed with Conviction. No round amount disclosed. Angels' employer names are not institutional investors."
       }
-    ]
+    ],
+    "iconPath": "venture-icon-keenable-seed-2026-08-25.jpg"
   },
   {
     "id": "gatik-seriesd-2026-08-25",
@@ -2988,7 +3067,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 200,000,000, dated 2026-08-25. Funding expands driverless middle-mile commercial freight operations.",
     "amountOriginal": 200000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-gatik-seriesd-2026-08-25.jpg"
   },
   {
     "id": "renatamedical-seriesd-2026-08-19",
@@ -3031,7 +3111,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 25,000,000, dated 2026-08-19. Funding supports pediatric heart technologies and stent commercialization. Existing participating investors are unnamed.",
     "amountOriginal": 25000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-renatamedical-seriesd-2026-08-19.jpg"
   },
   {
     "id": "also-seriesd-2026-08-19",
@@ -3077,7 +3158,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 150,000,000, dated 2026-08-19. Funding develops autonomous small electric vehicles.",
     "amountOriginal": 150000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-also-seriesd-2026-08-19.jpg"
   },
   {
     "id": "hopscotchprimarycare-seriesd-2026-08-18",
@@ -3141,7 +3223,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 53,000,000, dated 2026-08-18. Funding expands technology-enabled rural primary care.",
     "amountOriginal": 53000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-hopscotchprimarycare-seriesd-2026-08-18.jpg"
   },
   {
     "id": "abcuro-seriesd-2026-08-18",
@@ -3200,7 +3283,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 66,000,000, dated 2026-08-18. Funding supports a new clinical study for inclusion body myositis.",
     "amountOriginal": 66000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-abcuro-seriesd-2026-08-18.jpg"
   },
   {
     "id": "navvis-seriesd-2026-08-06",
@@ -3246,7 +3330,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 85,000,000, dated 2026-08-06. Spatial data platform expands data infrastructure and AI products.",
     "amountOriginal": 85000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-navvis-seriesd-2026-08-06.jpg"
   },
   {
     "id": "lifeminetherapeutics-seriese-2026-08-06",
@@ -3297,7 +3382,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series E, USD 188,000,000, dated 2026-08-06. Series E advances transplant therapies. The separate previously completed $75 million Series D is excluded from this amount.",
     "amountOriginal": 188000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-lifeminetherapeutics-seriese-2026-08-06.jpg"
   },
   {
     "id": "hadrian-seriesd-2026-08-06",
@@ -3360,7 +3446,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 1,370,000,000, dated 2026-08-06. Equity financing supports automated factories, research and production capacity.",
     "amountOriginal": 1370000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-hadrian-seriesd-2026-08-06.jpg"
   },
   {
     "id": "obsidiansecurity-seriesd-2026-08-04",
@@ -3409,7 +3496,8 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 85,000,000, dated 2026-08-04. Funding expands security for AI agents accessing enterprise applications.",
     "amountOriginal": 85000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-obsidiansecurity-seriesd-2026-08-04.jpg"
   },
   {
     "id": "horizon3-seriese-2026-08-03",
@@ -3466,7 +3554,8 @@
     ],
     "evidenceNotes": "Opened company release dated August 3 confirms USD250M Series E co-led by NightDragon and NEA; its investor-syndicate section names seven new and five returning participants, all included.",
     "amountOriginal": 250000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-horizon3-seriese-2026-08-03.jpg"
   },
   {
     "id": "basepower-seriesd-2026-08-03",
@@ -3515,6 +3604,7 @@
     ],
     "evidenceNotes": "Opened source confirms Series D, USD 1,000,000,000, dated 2026-08-03. Funding scales domestic home-battery production and national expansion.",
     "amountOriginal": 1000000000,
-    "currency": "USD"
+    "currency": "USD",
+    "iconPath": "venture-icon-basepower-seriesd-2026-08-03.jpg"
   }
 ]

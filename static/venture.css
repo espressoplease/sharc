@@ -48,4 +48,29 @@ body { margin: 8px; background: #fff; color: #000; font-family: Verdana, Geneva,
 .detail-source a { color: #67523d; }
 .venture-data-model { padding: 10px 14px 16px; border-top: 1px solid #dfdfd7; color: #777; font-size: 11px; line-height: 1.5; }
 .venture-data-model strong { color: #4b4b45; }
+.venture-logo { width: 28px; height: 28px; object-fit: contain; }
+.deal-icon { width: 28px; height: 28px; object-fit: contain; }
+.deal-initials.has-icon { display: none; }
+
+/* The same compact module is included above the native Sharc news feed. */
+.venture-header-shell { background:#d8e8db; }
+.venture-strip { box-sizing:border-box; background:#f3fbf3; border-bottom:1px solid #c9dfcc; color:#5f5f5f; padding:4px 4px 0; width:100%; }
+.venture-strip-head { align-items:baseline; display:flex; gap:7px; padding:1px 3px 4px; }
+.venture-strip-kicker { color:#111; font-size:8px; font-weight:bold; letter-spacing:.08em; }
+.venture-strip-summary { color:#887b6c; font:8px monospace; }
+.venture-strip-open { color:#5d4f40 !important; font-size:8px; margin-left:auto; }
+.venture-strip-toggle { background:transparent; border:0; color:#887b6c; cursor:pointer; font:8px Verdana, sans-serif; padding:0 2px; text-decoration:underline; }
+.venture-strip-deals { display:grid; gap:4px; grid-template-columns:repeat(6, minmax(0,1fr)); padding:0 0 4px; }
+.venture-strip-deals > p { font:8px monospace; margin:3px; }
+.venture-strip-deal { align-items:center; background:#fffdfa; border:1px solid #ead8c0; color:#333 !important; display:grid; gap:5px; grid-template-columns:22px minmax(0,1fr); min-width:0; padding:4px; }
+.venture-strip-deal:hover { background:#fff; border-color:#b6d2ba; }
+.venture-strip-icon { display:grid; height:20px; place-items:center; width:20px; }
+.venture-strip-icon img { height:20px; object-fit:contain; width:20px; }
+.venture-strip-icon img + .venture-strip-fallback { display:none; }
+.venture-strip-fallback { color:#5d564d; font:bold 8px Verdana, sans-serif; }
+.venture-strip-company, .venture-strip-amount { display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.venture-strip-company { font-size:8px; font-weight:bold; }
+.venture-strip-amount { color:#817466; font:8px monospace; margin-top:1px; }
+.venture-strip.is-collapsed .venture-strip-body { display:none; }
+@media (max-width:850px) { .venture-strip-deals { grid-template-columns:repeat(3, minmax(0,1fr)); } }
 @media (max-width: 850px) { .venture-shell { width: 100%; min-width: 0; } .venture-controls { grid-template-columns: 1fr 1fr; } .venture-controls label:first-child { grid-column: 1 / -1; } .venture-chart { gap: 3px; } .deal-bar, .deal-initials { width: 21px; } .venture-nav { display: none; } }

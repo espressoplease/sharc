@@ -10,6 +10,7 @@
   const roundAmount = (deal) => Number(deal.amountUsd || 0);
   const displayAmount = (deal) => roundAmount(deal) ? usd.format(roundAmount(deal)) : 'Undisclosed';
   const formattedDate = (deal) => dateText.format(new Date(`${deal.date}T00:00:00Z`));
+  const icon = (deal, className = 'deal-icon') => deal.iconPath ? `<img class="${className}" src="${safe(deal.iconPath)}" alt="" onerror="this.remove()">` : '';
 
   function filtered() {
     const needle = state.query.trim().toLowerCase();
@@ -60,7 +61,7 @@
     $('chart').innerHTML = windowDeals.map((deal) => {
       const height = roundAmount(deal) ? Math.max(14, Math.round((Math.log10(roundAmount(deal)) / maxLog) * 225)) : 8;
       const selected = state.selected === deal.id ? ' selected' : '';
-      return `<button class="deal-column${selected}" type="button" role="listitem" data-id="${safe(deal.id)}" title="${safe(deal.company)} · ${safe(displayAmount(deal))}"><span class="bar-wrap"><span class="deal-bar" style="height:${height}px"><span class="deal-initials">${safe(initials(deal.company))}</span></span></span><span class="deal-label"><time>${safe(formattedDate(deal))}</time><span>${safe(deal.company)}</span><span class="amount-label">${safe(displayAmount(deal))}</span></span></button>`;
+      return `<button class="deal-column${selected}" type="button" role="listitem" data-id="${safe(deal.id)}" title="${safe(deal.company)} · ${safe(displayAmount(deal))}"><span class="bar-wrap"><span class="deal-bar" style="height:${height}px"><span class="deal-initials${deal.iconPath ? ' has-icon' : ''}">${safe(initials(deal.company))}</span>${icon(deal)}</span></span><span class="deal-label"><time>${safe(formattedDate(deal))}</time><span>${safe(deal.company)}</span><span class="amount-label">${safe(displayAmount(deal))}</span></span></button>`;
     }).join('') || '<p class="empty-detail">No records match these filters.</p>';
     $('chart').querySelectorAll('.deal-column').forEach((button) => button.addEventListener('click', () => {
       state.selected = button.dataset.id;
@@ -95,6 +96,9 @@
     populateSelect('sector', [...new Set(deals.map((deal) => deal.sector).filter(Boolean))].sort());
     renderSummary(deals);
     bind();
+    const requested = decodeURIComponent(location.hash.slice(1));
+    const index = deals.sort((a, b) => b.date.localeCompare(a.date) || a.company.localeCompare(b.company)).findIndex((deal) => deal.id === requested);
+    if (index >= 0) { state.selected = requested; state.page = Math.floor(index / pageSize); }
     render();
   }).catch((error) => { $('chart').innerHTML = `<p class="empty-detail">Could not load the venture data: ${safe(error.message)}</p>`; });
 })();
