@@ -1,6 +1,6 @@
 (() => {
   const pageSize = 12;
-  const state = { deals: [], page: 0, stage: '', sector: '', query: '', timeline: 'announced', selected: null };
+  const state = { deals: [], page: 0, stage: '', sector: '', query: '', timeline: 'added', selected: null };
   const $ = (id) => document.getElementById(id);
   const usd = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', notation: 'compact', maximumFractionDigits: 1 });
   const dateText = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
@@ -89,7 +89,7 @@
     $('stage').addEventListener('change', (event) => { state.stage = event.target.value; state.page = 0; render(); });
     $('sector').addEventListener('change', (event) => { state.sector = event.target.value; state.page = 0; render(); });
     $('timeline').addEventListener('change', (event) => { state.timeline = event.target.value; state.page = 0; render(); });
-    $('reset').addEventListener('click', () => { state.stage = ''; state.sector = ''; state.query = ''; state.timeline = 'announced'; state.page = 0; $('query').value = ''; $('stage').value = ''; $('sector').value = ''; $('timeline').value = 'announced'; render(); });
+    $('reset').addEventListener('click', () => { state.stage = ''; state.sector = ''; state.query = ''; state.timeline = 'added'; state.page = 0; $('query').value = ''; $('stage').value = ''; $('sector').value = ''; $('timeline').value = 'added'; render(); });
     $('newer').addEventListener('click', () => { state.page -= 1; render(); });
     $('older').addEventListener('click', () => { state.page += 1; render(); });
   }

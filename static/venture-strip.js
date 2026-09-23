@@ -1,6 +1,6 @@
 (() => {
   const pageSize = 12;
-  const state = { deals: [], page: 0, stage: '', sector: '', query: '', sort: 'announced', selected: null };
+  const state = { deals: [], page: 0, stage: '', sector: '', query: '', sort: 'added', selected: null };
   const money = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', notation: 'compact', maximumFractionDigits: 1 });
   const dates = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', timeZone: 'UTC' });
   const clean = (v) => String(v ?? '').replace(/[&<>'"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[c]));
@@ -29,7 +29,7 @@
   function draw() {
     const stages = [...new Set(state.deals.map((deal) => deal.stage))].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
     const sectors = [...new Set(state.deals.map((deal) => deal.sector).filter(Boolean))].sort();
-    host.innerHTML = `<div class="venture-inline-tools"><label>Find company or fund<input id="venture-query" type="search" placeholder="Mistral, Accel"></label><label>Stage<select id="venture-stage"><option value="">All stages</option>${stages.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><label>Sector<select id="venture-sector"><option value="">All sectors</option>${sectors.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><label>Timeline<select id="venture-sort"><option value="announced">Announcement date</option><option value="added">Added to Venture News</option></select></label><button id="venture-reset" type="button">reset</button></div><div id="venture-tabs" class="venture-inline-tabs"></div><div class="venture-inline-pager"><button id="venture-newer" type="button">‹ newer</button><strong id="venture-page"></strong><button id="venture-older" type="button">older ›</button></div><div id="venture-chart" class="venture-inline-chart" role="list" aria-label="Venture funding rounds"></div><p id="venture-caption" class="venture-inline-caption"></p><div id="venture-detail" class="venture-inline-detail"></div>`;
+    host.innerHTML = `<div class="venture-inline-tools"><label>Find company or fund<input id="venture-query" type="search" placeholder="Mistral, Accel"></label><label>Stage<select id="venture-stage"><option value="">All stages</option>${stages.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><label>Sector<select id="venture-sector"><option value="">All sectors</option>${sectors.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><label>Timeline<select id="venture-sort"><option value="announced">Announcement date</option><option value="added" selected>Added to Venture News</option></select></label><button id="venture-reset" type="button">reset</button></div><div id="venture-tabs" class="venture-inline-tabs"></div><div class="venture-inline-pager"><button id="venture-newer" type="button">‹ newer</button><strong id="venture-page"></strong><button id="venture-older" type="button">older ›</button></div><div id="venture-chart" class="venture-inline-chart" role="list" aria-label="Venture funding rounds"></div><p id="venture-caption" class="venture-inline-caption"></p><div id="venture-detail" class="venture-inline-detail"></div>`;
     document.getElementById('venture-query').value = state.query;
     document.getElementById('venture-stage').value = state.stage;
     document.getElementById('venture-sector').value = state.sector;
@@ -38,7 +38,7 @@
     document.getElementById('venture-stage').addEventListener('change', (e) => { state.stage = e.target.value; state.page = 0; draw(); });
     document.getElementById('venture-sector').addEventListener('change', (e) => { state.sector = e.target.value; state.page = 0; draw(); });
     document.getElementById('venture-sort').addEventListener('change', (e) => { state.sort = e.target.value; state.page = 0; draw(); });
-    document.getElementById('venture-reset').addEventListener('click', () => { state.query = ''; state.stage = ''; state.sector = ''; state.page = 0; draw(); });
+    document.getElementById('venture-reset').addEventListener('click', () => { state.query = ''; state.stage = ''; state.sector = ''; state.sort = 'added'; state.page = 0; draw(); });
     document.getElementById('venture-newer').addEventListener('click', () => { state.page -= 1; draw(); });
     document.getElementById('venture-older').addEventListener('click', () => { state.page += 1; draw(); });
     const tabs = document.getElementById('venture-tabs');
