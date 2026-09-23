@@ -22,7 +22,8 @@
     const investors = [...new Set([...(deal.leadInvestors || []), ...(deal.investors || [])])];
     const articles = deal.articles || [{ url: deal.url, publisher: deal.source, title: deal.title }];
     const coverage = articles.map((article) => `<li><a href="${clean(article.url)}" target="_blank" rel="noreferrer">${clean(article.publisher || 'source')}</a>${article.title ? ` · ${clean(article.title)}` : ''}</li>`).join('');
-    target.innerHTML = `<strong>${clean(deal.company)} · ${clean(deal.stage)} · ${clean(amount(deal))}</strong> · ${clean(deal.sector || 'Uncategorised')}<br>Investors: ${clean(investors.join(', ') || 'Not reported')}<br><b>Coverage (${articles.length}):</b><ul>${coverage}</ul>`;
+    const website = deal.domain ? ` · <a href="https://${clean(deal.domain)}" target="_blank" rel="noreferrer">${clean(deal.domain)}</a>` : '';
+    target.innerHTML = `<strong>${clean(deal.company)} · ${clean(deal.stage)} · ${clean(amount(deal))}</strong> · ${clean(deal.sector || 'Uncategorised')}${website}<br>Investors: ${clean(investors.join(', ') || 'Not reported')}<br><b>Coverage (${articles.length}):</b><ul>${coverage}</ul>`;
   }
 
   function draw() {
