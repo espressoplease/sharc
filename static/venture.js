@@ -48,7 +48,8 @@
   function renderDetail(deal) {
     if (!deal) { $('detail').innerHTML = '<p class="empty-detail">Select a marker to see the company, reported amount, investors, and source.</p>'; return; }
     const investors = [...new Set([...(deal.leadInvestors || []), ...(deal.investors || [])])];
-    $('detail').innerHTML = `<div class="detail-head"><h2>${safe(deal.company)} <small>· ${safe(deal.stage)}</small></h2><strong>${safe(displayAmount(deal))}</strong></div><p class="detail-meta">${safe(formattedDate(deal))} · ${safe(deal.sector || 'Uncategorised')} · ${safe(deal.country || 'Location not reported')}</p><p class="detail-investors"><b>Investors:</b> ${safe(investors.length ? investors.join(', ') : 'Not reported')}</p><p class="detail-source"><a href="${safe(deal.url)}" target="_blank" rel="noreferrer">${safe(deal.source || 'Source article')}</a> · ${safe(deal.summary || '')}</p>`;
+    const coverage = (deal.articles || [{ url: deal.url, publisher: deal.source, title: deal.title }]).map((article) => `<li><a href="${safe(article.url)}" target="_blank" rel="noreferrer">${safe(article.publisher || 'Source')}</a>${article.title ? ` · ${safe(article.title)}` : ''}</li>`).join('');
+    $('detail').innerHTML = `<div class="detail-head"><h2>${safe(deal.company)} <small>· ${safe(deal.stage)}</small></h2><strong>${safe(displayAmount(deal))}</strong></div><p class="detail-meta">${safe(formattedDate(deal))} · ${safe(deal.sector || 'Uncategorised')} · ${safe(deal.country || 'Location not reported')}</p><p class="detail-investors"><b>Investors:</b> ${safe(investors.length ? investors.join(', ') : 'Not reported')}</p><div class="detail-source"><b>Coverage (${deal.articles?.length || 1}):</b><ul>${coverage}</ul></div>`;
   }
 
   function renderChart(deals) {

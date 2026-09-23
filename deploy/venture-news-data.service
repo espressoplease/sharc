@@ -1,0 +1,17 @@
+[Unit]
+Description=Venture News SQLite data service
+After=network.target
+
+[Service]
+Type=simple
+User=deploy
+Group=deploy
+WorkingDirectory=/home/deploy/apps/venture-news
+Environment=VENTURE_DATA_DIR=/home/deploy/data/venture-news
+Environment=VENTURE_DATA_PORT=8787
+ExecStart=/usr/bin/python3 scripts/venture_service.py serve
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

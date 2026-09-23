@@ -20,7 +20,9 @@
     const target = document.getElementById('venture-detail');
     if (!deal) { target.textContent = 'Select a deal marker for investors and source.'; return; }
     const investors = [...new Set([...(deal.leadInvestors || []), ...(deal.investors || [])])];
-    target.innerHTML = `<strong>${clean(deal.company)} · ${clean(deal.stage)} · ${clean(amount(deal))}</strong> · ${clean(deal.sector || 'Uncategorised')}<br>Investors: ${clean(investors.join(', ') || 'Not reported')} · <a href="${clean(deal.url)}" target="_blank" rel="noreferrer">${clean(deal.source || 'source')}</a>`;
+    const articles = deal.articles || [{ url: deal.url, publisher: deal.source, title: deal.title }];
+    const coverage = articles.map((article) => `<li><a href="${clean(article.url)}" target="_blank" rel="noreferrer">${clean(article.publisher || 'source')}</a>${article.title ? ` · ${clean(article.title)}` : ''}</li>`).join('');
+    target.innerHTML = `<strong>${clean(deal.company)} · ${clean(deal.stage)} · ${clean(amount(deal))}</strong> · ${clean(deal.sector || 'Uncategorised')}<br>Investors: ${clean(investors.join(', ') || 'Not reported')}<br><b>Coverage (${articles.length}):</b><ul>${coverage}</ul>`;
   }
 
   function draw() {

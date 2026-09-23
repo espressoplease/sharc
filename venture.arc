@@ -29,8 +29,11 @@
 ; Static data is intentionally seeded only once.  Subsequent imports update
 ; arc/venture/deals.json, which is excluded from git and survives deployments.
 (def venture-data-json ()
-  (ensure-venture-data)
-  (filechars venture-data-path*))
+  (let url (string "http://127.0.0.1:" (readenv "VENTURE_DATA_PORT" 8787) "/deals")
+    (aif (errsafe:http-response url (obj timeout 2 maxtime 3))
+         it!body
+         (do (ensure-venture-data)
+             (filechars venture-data-path*)))))
 
 (newsopr venture ()
   "venture.html")

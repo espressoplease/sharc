@@ -46,6 +46,7 @@ body { margin: 8px; background: #fff; color: #000; font-family: Verdana, Geneva,
 .detail-head strong { color: #397f50; font: 15px Menlo, Monaco, Consolas, monospace; }
 .detail-meta, .detail-investors, .detail-source { margin: 7px 0 0; color: #6e6256; font-size: 11px; line-height: 1.5; }
 .detail-source a { color: #67523d; }
+.detail-source ul, .venture-inline-detail ul { margin:3px 0 0 16px; padding:0; }
 .venture-data-model { padding: 10px 14px 16px; border-top: 1px solid #dfdfd7; color: #777; font-size: 11px; line-height: 1.5; }
 .venture-data-model strong { color: #4b4b45; }
 .venture-logo { width: 28px; height: 28px; object-fit: contain; }
