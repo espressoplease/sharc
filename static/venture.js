@@ -1,6 +1,6 @@
 (() => {
   const pageSize = 12;
-  const state = { deals: [], page: 0, stage: '', sector: '', query: '', selected: null };
+  const state = { deals: [], page: 0, stage: '', sector: '', query: '', timeline: 'announced', selected: null };
   const $ = (id) => document.getElementById(id);
   const usd = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', notation: 'compact', maximumFractionDigits: 1 });
   const dateText = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
@@ -10,6 +10,7 @@
   const roundAmount = (deal) => Number(deal.amountUsd || 0);
   const displayAmount = (deal) => roundAmount(deal) ? usd.format(roundAmount(deal)) : 'Undisclosed';
   const formattedDate = (deal) => dateText.format(new Date(`${deal.date}T00:00:00Z`));
+  const chartDate = (deal) => state.timeline === 'added' && deal.addedAt ? dateText.format(new Date(deal.addedAt)) : formattedDate(deal);
   const icon = (deal, className = 'deal-icon') => deal.iconPath ? `<img class="${className}" src="${safe(deal.iconPath)}" alt="" onerror="this.remove()">` : '';
 
   function filtered() {
@@ -17,7 +18,7 @@
     return state.deals.filter((deal) => {
       const haystack = [deal.company, deal.sector, deal.stage, ...(deal.investors || []), ...(deal.leadInvestors || [])].join(' ').toLowerCase();
       return (!state.stage || deal.stage === state.stage) && (!state.sector || deal.sector === state.sector) && (!needle || haystack.includes(needle));
-    }).sort((a, b) => b.date.localeCompare(a.date) || a.company.localeCompare(b.company));
+    }).sort((a, b) => (state.timeline === 'added' ? (b.addedAt || b.date).localeCompare(a.addedAt || a.date) : b.date.localeCompare(a.date)) || a.company.localeCompare(b.company));
   }
 
   function totalShownAmount(deals) { return deals.reduce((sum, deal) => sum + roundAmount(deal), 0); }
@@ -63,7 +64,7 @@
     $('chart').innerHTML = windowDeals.map((deal) => {
       const height = roundAmount(deal) ? Math.max(14, Math.round((Math.log10(roundAmount(deal)) / maxLog) * 225)) : 8;
       const selected = state.selected === deal.id ? ' selected' : '';
-      return `<button class="deal-column${selected}" type="button" role="listitem" data-id="${safe(deal.id)}" title="${safe(deal.company)} · ${safe(displayAmount(deal))}"><span class="bar-wrap"><span class="deal-bar" style="height:${height}px"><span class="deal-initials${deal.iconPath ? ' has-icon' : ''}">${safe(initials(deal.company))}</span>${icon(deal)}</span></span><span class="deal-label"><time>${safe(formattedDate(deal))}</time><span>${safe(deal.company)}</span><span class="amount-label">${safe(displayAmount(deal))}</span></span></button>`;
+      return `<button class="deal-column${selected}" type="button" role="listitem" data-id="${safe(deal.id)}" title="${safe(deal.company)} · ${safe(displayAmount(deal))}"><span class="bar-wrap"><span class="deal-bar" style="height:${height}px"><span class="deal-initials${deal.iconPath ? ' has-icon' : ''}">${safe(initials(deal.company))}</span>${icon(deal)}</span></span><span class="deal-label"><time>${safe(chartDate(deal))}</time><span>${safe(deal.company)}</span><span class="amount-label">${safe(displayAmount(deal))}</span></span></button>`;
     }).join('') || '<p class="empty-detail">No records match these filters.</p>';
     $('chart').querySelectorAll('.deal-column').forEach((button) => button.addEventListener('click', () => {
       state.selected = button.dataset.id;
@@ -73,7 +74,7 @@
     $('pageStatus').textContent = deals.length ? `${start + 1}–${Math.min(start + pageSize, deals.length)} of ${deals.length}` : '0 records';
     $('newer').disabled = state.page === 0;
     $('older').disabled = state.page >= pages - 1;
-    $('chartCaption').textContent = windowDeals.length ? `Latest at left, earlier rounds at right. This window contains ${windowDeals.length} rounds; page through it to keep labels readable.` : '';
+    $('chartCaption').textContent = windowDeals.length ? `${state.timeline === 'added' ? 'Most recently added at left.' : 'Latest announced at left.'} This window contains ${windowDeals.length} rounds; page through it to keep labels readable.` : '';
   }
 
   function render() {
@@ -87,7 +88,8 @@
     $('query').addEventListener('input', (event) => { state.query = event.target.value; state.page = 0; render(); });
     $('stage').addEventListener('change', (event) => { state.stage = event.target.value; state.page = 0; render(); });
     $('sector').addEventListener('change', (event) => { state.sector = event.target.value; state.page = 0; render(); });
-    $('reset').addEventListener('click', () => { state.stage = ''; state.sector = ''; state.query = ''; state.page = 0; $('query').value = ''; $('stage').value = ''; $('sector').value = ''; render(); });
+    $('timeline').addEventListener('change', (event) => { state.timeline = event.target.value; state.page = 0; render(); });
+    $('reset').addEventListener('click', () => { state.stage = ''; state.sector = ''; state.query = ''; state.timeline = 'announced'; state.page = 0; $('query').value = ''; $('stage').value = ''; $('sector').value = ''; $('timeline').value = 'announced'; render(); });
     $('newer').addEventListener('click', () => { state.page -= 1; render(); });
     $('older').addEventListener('click', () => { state.page += 1; render(); });
   }

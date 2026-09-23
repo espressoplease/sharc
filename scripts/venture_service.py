@@ -106,11 +106,11 @@ def import_file(db: Path, source: Path) -> int:
 
 def deals(db: Path) -> list[dict]:
     with connect(db) as con:
-        rows = con.execute("SELECT r.id,r.external_id,r.metadata_json,c.name,c.domain,c.sector,c.country,c.icon_path FROM rounds r JOIN companies c ON c.id=r.company_id ORDER BY r.announced_on DESC,c.name").fetchall()
+        rows = con.execute("SELECT r.id,r.external_id,r.metadata_json,r.created_at,c.name,c.domain,c.sector,c.country,c.icon_path FROM rounds r JOIN companies c ON c.id=r.company_id ORDER BY r.announced_on DESC,c.name").fetchall()
         out = []
         for row in rows:
             item = json.loads(row["metadata_json"])
-            item.update({"id": row["external_id"], "company": row["name"], "domain": row["domain"], "sector": row["sector"], "country": row["country"], "iconPath": row["icon_path"]})
+            item.update({"id": row["external_id"], "company": row["name"], "domain": row["domain"], "sector": row["sector"], "country": row["country"], "iconPath": row["icon_path"], "addedAt": row["created_at"]})
             item["articles"] = [dict(article) for article in con.execute("SELECT a.url,a.title,a.publisher,a.published_on AS publishedOn,a.category,ar.evidence FROM articles a JOIN article_rounds ar ON ar.article_id=a.id WHERE ar.round_id=? ORDER BY a.published_on DESC,a.id", (row["id"],))]
             if item["articles"]:
                 item["url"], item["source"] = item["articles"][0]["url"], item["articles"][0]["publisher"]

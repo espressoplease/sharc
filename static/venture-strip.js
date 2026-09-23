@@ -1,12 +1,12 @@
 (() => {
   const pageSize = 12;
-  const state = { deals: [], page: 0, stage: '', sector: '', query: '', selected: null };
+  const state = { deals: [], page: 0, stage: '', sector: '', query: '', sort: 'announced', selected: null };
   const money = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', notation: 'compact', maximumFractionDigits: 1 });
   const dates = new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', timeZone: 'UTC' });
   const clean = (v) => String(v ?? '').replace(/[&<>'"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[c]));
   const initials = (name) => name.split(/[\s.-]+/).filter(Boolean).slice(0, 2).map((word) => word[0]).join('').toUpperCase();
   const amount = (deal) => deal.amountUsd ? money.format(deal.amountUsd) : 'Undisclosed';
-  const date = (deal) => dates.format(new Date(`${deal.date}T00:00:00Z`));
+  const date = (deal) => dates.format(new Date(`${state.sort === 'added' ? (deal.addedAt || `${deal.date}T00:00:00Z`) : `${deal.date}T00:00:00Z`}`));
   const host = document.getElementById('venture-dashboard');
   const strip = document.getElementById('venture-strip');
   if (!host || !strip) return;
@@ -14,7 +14,7 @@
   const ordered = () => state.deals.filter((deal) => {
     const terms = [deal.company, deal.sector, deal.stage, ...(deal.investors || []), ...(deal.leadInvestors || [])].join(' ').toLowerCase();
     return (!state.stage || deal.stage === state.stage) && (!state.sector || deal.sector === state.sector) && (!state.query || terms.includes(state.query));
-  }).sort((a, b) => b.date.localeCompare(a.date) || a.company.localeCompare(b.company));
+  }).sort((a, b) => (state.sort === 'added' ? (b.addedAt || b.date).localeCompare(a.addedAt || a.date) : b.date.localeCompare(a.date)) || a.company.localeCompare(b.company));
 
   function drawDetail(deal) {
     const target = document.getElementById('venture-detail');
@@ -29,13 +29,15 @@
   function draw() {
     const stages = [...new Set(state.deals.map((deal) => deal.stage))].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
     const sectors = [...new Set(state.deals.map((deal) => deal.sector).filter(Boolean))].sort();
-    host.innerHTML = `<div class="venture-inline-tools"><label>Find company or fund<input id="venture-query" type="search" placeholder="Mistral, Accel"></label><label>Stage<select id="venture-stage"><option value="">All stages</option>${stages.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><label>Sector<select id="venture-sector"><option value="">All sectors</option>${sectors.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><button id="venture-reset" type="button">reset</button></div><div id="venture-tabs" class="venture-inline-tabs"></div><div class="venture-inline-pager"><button id="venture-newer" type="button">‹ newer</button><strong id="venture-page"></strong><button id="venture-older" type="button">older ›</button></div><div id="venture-chart" class="venture-inline-chart" role="list" aria-label="Venture funding rounds"></div><p id="venture-caption" class="venture-inline-caption"></p><div id="venture-detail" class="venture-inline-detail"></div>`;
+    host.innerHTML = `<div class="venture-inline-tools"><label>Find company or fund<input id="venture-query" type="search" placeholder="Mistral, Accel"></label><label>Stage<select id="venture-stage"><option value="">All stages</option>${stages.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><label>Sector<select id="venture-sector"><option value="">All sectors</option>${sectors.map((v) => `<option value="${clean(v)}">${clean(v)}</option>`).join('')}</select></label><label>Timeline<select id="venture-sort"><option value="announced">Announcement date</option><option value="added">Added to Venture News</option></select></label><button id="venture-reset" type="button">reset</button></div><div id="venture-tabs" class="venture-inline-tabs"></div><div class="venture-inline-pager"><button id="venture-newer" type="button">‹ newer</button><strong id="venture-page"></strong><button id="venture-older" type="button">older ›</button></div><div id="venture-chart" class="venture-inline-chart" role="list" aria-label="Venture funding rounds"></div><p id="venture-caption" class="venture-inline-caption"></p><div id="venture-detail" class="venture-inline-detail"></div>`;
     document.getElementById('venture-query').value = state.query;
     document.getElementById('venture-stage').value = state.stage;
     document.getElementById('venture-sector').value = state.sector;
+    document.getElementById('venture-sort').value = state.sort;
     document.getElementById('venture-query').addEventListener('input', (e) => { state.query = e.target.value.toLowerCase(); state.page = 0; draw(); });
     document.getElementById('venture-stage').addEventListener('change', (e) => { state.stage = e.target.value; state.page = 0; draw(); });
     document.getElementById('venture-sector').addEventListener('change', (e) => { state.sector = e.target.value; state.page = 0; draw(); });
+    document.getElementById('venture-sort').addEventListener('change', (e) => { state.sort = e.target.value; state.page = 0; draw(); });
     document.getElementById('venture-reset').addEventListener('click', () => { state.query = ''; state.stage = ''; state.sector = ''; state.page = 0; draw(); });
     document.getElementById('venture-newer').addEventListener('click', () => { state.page -= 1; draw(); });
     document.getElementById('venture-older').addEventListener('click', () => { state.page += 1; draw(); });
@@ -55,7 +57,7 @@
     document.getElementById('venture-page').textContent = deals.length ? `${start + 1}–${Math.min(start + pageSize, deals.length)} of ${deals.length}` : '0 records';
     document.getElementById('venture-newer').disabled = state.page === 0;
     document.getElementById('venture-older').disabled = state.page >= pages - 1;
-    document.getElementById('venture-caption').textContent = visible.length ? 'Latest rounds at left. Log scale keeps seed and late-stage amounts visible.' : '';
+    document.getElementById('venture-caption').textContent = visible.length ? `${state.sort === 'added' ? 'Most recently added at left.' : 'Latest announced rounds at left.'} Log scale keeps seed and late-stage amounts visible.` : '';
     drawDetail(state.deals.find((deal) => deal.id === state.selected));
   }
 

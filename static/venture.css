@@ -11,7 +11,7 @@ body { margin: 8px; background: #fff; color: #000; font-family: Verdana, Geneva,
 .venture-summary strong { color: #333; font-size: 13px; }
 .eyebrow { font-size: 11px; letter-spacing: .08em; font-weight: bold; color: #111; }
 .summary-amount { color: #555; font: 16px Menlo, Monaco, Consolas, monospace; }
-.venture-controls { padding: 10px 14px; display: grid; grid-template-columns: minmax(260px, 1fr) 150px 150px auto; gap: 8px; align-items: end; border-bottom: 1px solid #dfdfd7; }
+.venture-controls { padding: 10px 14px; display: grid; grid-template-columns: minmax(260px, 1fr) 150px 150px 170px auto; gap: 8px; align-items: end; border-bottom: 1px solid #dfdfd7; }
 .venture-controls label { display: grid; gap: 4px; color: #777; font-size: 10px; }
 .venture-controls input, .venture-controls select, .venture-controls button, .chart-pager button { box-sizing: border-box; height: 28px; border: 1px solid #cfc9bd; border-radius: 0; background: #fffdfa; color: #333; padding: 4px 7px; font: 12px Verdana, Geneva, sans-serif; }
 .venture-controls button { cursor: pointer; }
@@ -62,7 +62,7 @@ body { margin: 8px; background: #fff; color: #000; font-family: Verdana, Geneva,
 .venture-strip-open { color:#5d4f40 !important; font-size:8px; margin-left:auto; }
 .venture-strip-toggle { background:transparent; border:0; color:#887b6c; cursor:pointer; font:8px Verdana, sans-serif; padding:0 2px; text-decoration:underline; }
 .venture-dashboard { padding:0 2px 5px; }
-.venture-inline-tools { align-items:end; display:grid; gap:5px; grid-template-columns:minmax(170px,1fr) 125px 125px auto; padding:0 0 5px; }
+.venture-inline-tools { align-items:end; display:grid; gap:5px; grid-template-columns:minmax(170px,1fr) 125px 125px 145px auto; padding:0 0 5px; }
 .venture-inline-tools label { color:#8b7b6c; display:grid; font-size:8px; gap:2px; }
 .venture-inline-tools input, .venture-inline-tools select, .venture-inline-tools button, .venture-inline-pager button { background:#fffdfa; border:1px solid #ead8c0; border-radius:0; box-sizing:border-box; color:#555; font:9px Verdana, sans-serif; height:23px; padding:3px 5px; }
 .venture-inline-tools button, .venture-inline-pager button { cursor:pointer; }
