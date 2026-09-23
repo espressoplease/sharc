@@ -47,11 +47,11 @@
     (tag (div class "venture-strip-head")
       (tag (span class "venture-strip-kicker") (pr "VENTURE ROUNDS"))
       (tag (span id "venture-strip-summary" class "venture-strip-summary") (pr "loading sourced rounds..."))
-      (tag (a class "venture-strip-open" href "venture.html") (pr "open dashboard"))
+      (tag (a class "venture-strip-open" href "venture-data.json") (pr "export JSON"))
       (tag (button id "venture-strip-toggle" class "venture-strip-toggle" type "button") (pr "collapse")))
     (tag (div id "venture-strip-body" class "venture-strip-body")
-      (tag (div id "venture-strip-deals" class "venture-strip-deals")
-        (pr "Loading the latest reported rounds..."))))
+      (tag (div id "venture-dashboard" class "venture-dashboard")
+        (pr "Loading the funding landscape..."))))
   (tag (script src (static-src "venture-strip.js"))))
 
 ; Override only the presentation wrapper used by the stock News pages. All

@@ -1,6 +1,6 @@
 # Venture News data layer
 
-Venture News is a Sharc instance with a static dashboard at `/venture.html` and a JSON feed at `/venture-data.json`. The dashboard shows twelve deals per chart page. The fixed window keeps company names, dates, and amounts readable while filters and pager controls still expose the entire research set.
+Venture News is a Sharc instance whose native `/news` feed carries the funding explorer above the article list. It reads its data from `/venture-data.json`. The chart shows twelve deals at a time within the same page, keeping company names, dates, and amounts readable while filters and controls still expose the entire research set.
 
 ## Storage
 

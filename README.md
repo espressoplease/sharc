@@ -188,10 +188,11 @@ This fork includes a venture funding dashboard built on Sharc. Start it with:
 PORT=8082 ./sharc venture-news.arc
 ```
 
-Open `http://127.0.0.1:8082/venture.html`. The page reads its records from
-`/venture-data.json`; each chart page shows twelve deals to keep dates,
-companies, and amounts legible. See [the Venture News data-layer guide](docs/venture-news.md)
-for imports, storage, and deployment.
+Open `http://127.0.0.1:8082/news`. The native Sharc feed carries the Venture
+News funding explorer above its articles. The explorer reads `/venture-data.json`
+and shows twelve clear deal markers at a time, without navigating away from the
+feed. See [the Venture News data-layer guide](docs/venture-news.md) for imports,
+storage, and deployment.
 
 ## Development history
 

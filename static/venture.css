@@ -60,17 +60,36 @@ body { margin: 8px; background: #fff; color: #000; font-family: Verdana, Geneva,
 .venture-strip-summary { color:#887b6c; font:8px monospace; }
 .venture-strip-open { color:#5d4f40 !important; font-size:8px; margin-left:auto; }
 .venture-strip-toggle { background:transparent; border:0; color:#887b6c; cursor:pointer; font:8px Verdana, sans-serif; padding:0 2px; text-decoration:underline; }
-.venture-strip-deals { display:grid; gap:4px; grid-template-columns:repeat(6, minmax(0,1fr)); padding:0 0 4px; }
-.venture-strip-deals > p { font:8px monospace; margin:3px; }
-.venture-strip-deal { align-items:center; background:#fffdfa; border:1px solid #ead8c0; color:#333 !important; display:grid; gap:5px; grid-template-columns:22px minmax(0,1fr); min-width:0; padding:4px; }
-.venture-strip-deal:hover { background:#fff; border-color:#b6d2ba; }
-.venture-strip-icon { display:grid; height:20px; place-items:center; width:20px; }
-.venture-strip-icon img { height:20px; object-fit:contain; width:20px; }
-.venture-strip-icon img + .venture-strip-fallback { display:none; }
-.venture-strip-fallback { color:#5d564d; font:bold 8px Verdana, sans-serif; }
-.venture-strip-company, .venture-strip-amount { display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
-.venture-strip-company { font-size:8px; font-weight:bold; }
-.venture-strip-amount { color:#817466; font:8px monospace; margin-top:1px; }
+.venture-dashboard { padding:0 2px 5px; }
+.venture-inline-tools { align-items:end; display:grid; gap:5px; grid-template-columns:minmax(170px,1fr) 125px 125px auto; padding:0 0 5px; }
+.venture-inline-tools label { color:#8b7b6c; display:grid; font-size:8px; gap:2px; }
+.venture-inline-tools input, .venture-inline-tools select, .venture-inline-tools button, .venture-inline-pager button { background:#fffdfa; border:1px solid #ead8c0; border-radius:0; box-sizing:border-box; color:#555; font:9px Verdana, sans-serif; height:23px; padding:3px 5px; }
+.venture-inline-tools button, .venture-inline-pager button { cursor:pointer; }
+.venture-inline-tabs { display:flex; flex-wrap:wrap; gap:2px; padding:0 0 5px; }
+.venture-inline-tabs button { background:transparent; border:1px solid transparent; color:#7e7061; cursor:pointer; font:9px monospace; padding:3px 5px; }
+.venture-inline-tabs button.active { background:#e2f0e5; border-color:#bad7c0; color:#355d3e; }
+.venture-inline-pager { align-items:center; display:flex; gap:8px; justify-content:center; padding:0 0 4px; }
+.venture-inline-pager button { height:21px; }
+.venture-inline-pager button:disabled { cursor:default; opacity:.45; }
+.venture-inline-pager strong { color:#75695d; font:9px monospace; min-width:135px; text-align:center; }
+.venture-inline-chart { align-items:stretch; background:repeating-linear-gradient(to top, transparent 0, transparent 55px, #e8dfd2 56px, transparent 57px); border-bottom:1px solid #d7cdbc; display:grid; gap:5px; grid-template-columns:repeat(12,minmax(0,1fr)); height:224px; padding:0 2px; }
+.venture-inline-deal { background:transparent; border:0; color:#51493f; cursor:pointer; display:grid; grid-template-rows:1fr auto; min-width:0; padding:0; text-align:center; }
+.venture-inline-deal.selected .venture-inline-bar { background:#397f50; }
+.venture-inline-deal:hover .venture-inline-bar { background:#6c9e78; }
+.venture-inline-bar-wrap { align-items:end; display:flex; justify-content:center; min-height:0; }
+.venture-inline-bar { background:#9d8b77; min-height:5px; position:relative; width:24px; }
+.venture-inline-icon { background:#fffdfa; border:1px solid #d5c8b6; display:grid; height:24px; left:-1px; place-items:center; position:absolute; top:-27px; width:24px; }
+.venture-inline-icon img { height:20px; object-fit:contain; width:20px; }
+.venture-inline-fallback { color:#5d564d; font:bold 8px Verdana,sans-serif; }
+.venture-inline-icon img + .venture-inline-fallback { display:none; }
+.venture-inline-label { font:8px monospace; line-height:11px; min-height:43px; overflow:hidden; padding-top:5px; }
+.venture-inline-label span { display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.venture-inline-date { color:#9a8b7c; }
+.venture-inline-amount { color:#5a5148; }
+.venture-inline-caption { color:#95897b; font-size:8px; margin:5px 0 0; }
+.venture-inline-detail { background:#fffdfa; border:1px solid #dfd5c7; color:#6e6256; font-size:9px; line-height:1.4; margin-top:5px; min-height:35px; padding:5px 7px; }
+.venture-inline-detail strong { color:#333; }
+.venture-inline-detail a { color:#67523d !important; text-decoration:underline; }
 .venture-strip.is-collapsed .venture-strip-body { display:none; }
-@media (max-width:850px) { .venture-strip-deals { grid-template-columns:repeat(3, minmax(0,1fr)); } }
+@media (max-width:850px) { .venture-inline-tools { grid-template-columns:1fr 1fr; } .venture-inline-tools label:first-child { grid-column:1 / -1; } .venture-inline-chart { gap:2px; } .venture-inline-bar, .venture-inline-icon { width:19px; } }
 @media (max-width: 850px) { .venture-shell { width: 100%; min-width: 0; } .venture-controls { grid-template-columns: 1fr 1fr; } .venture-controls label:first-child { grid-column: 1 / -1; } .venture-chart { gap: 3px; } .deal-bar, .deal-initials { width: 21px; } .venture-nav { display: none; } }
